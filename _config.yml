@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Youngjun Kim"
-  avatar           : "/images/0.png"
+  avatar           : "/assets/images/0.png"
   bio              : "Working on the page!!"
   location         : "South Korea"
   email            : "jun.k93@kaist.ac.kr"
