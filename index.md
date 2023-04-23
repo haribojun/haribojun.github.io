@@ -21,11 +21,26 @@ I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Tech
 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- **Korea Advanced Institute of Science and Techology (KAIST)** - Daejeon (South-Korea):  
 
-- **Catholic University of Korea** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+  *Mar.2022 - Present*
+  - *Ph.D*
+    - Major: Business and Technology Management (Marketing)
+    - Q-Marketing Lab
+    - Main Courses: 
+      - Marketing for Hi-tech Company, Advanced Statistics for Management, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management
+
+  *Mar.2020 - Feb.2022*
+  - *M.S.*
+    - Major: Business and Technology Management (Marketing)
+
+- **Catholic University of Korea** - Bucheon (South-Korea):  
+  *Mar.2014 - Feb 2019*
+  - *Graduated with*
+
+    - Bacholor of laws
+    - Bachelor of Fusion for Data Science & Humanities Management
+    - Main Courses: Understanding and Utilization Strategy of Big Data Business, Linear Algebra, Big Data Analysis for Business II, Data Visualization, Understanding and Utilization of Deep Learning, Capstone Design: Data Analysis Projects
 
 ---
 
@@ -33,7 +48,7 @@ I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Tech
 
 Proficient with: **Python, R, Tensorflow, Keras, Pytorch**
 
-Familiar with: **Stata, SQL**
+Familiar with: **Stata, SQL, SAS**
 
 ## Languages
 
