@@ -2,6 +2,7 @@
 title: "Course Work"
 permalink: /course_work/
 layout: single
+classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/background.jpg
