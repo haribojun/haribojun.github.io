@@ -37,6 +37,10 @@ I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Tech
   - *M.S.*
     - Major: Business and Technology Management (Marketing)
 
+<br/>
+<br/>
+
+
 - **Catholic University of Korea** - Bucheon (South-Korea):  
   *Mar.2014 - Feb 2019*
   - *Graduated with*
