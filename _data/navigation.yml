@@ -13,10 +13,10 @@ main:
   #   url: /Course/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Course Work"
-    url: /Coourse_work/
+    url: /course_work/
 
   - title: "Experience"
     url: /experience/    
