@@ -12,16 +12,12 @@ header:
 
 I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Technology Management. My research interest is the application of Machine Learning or Deep Learning to solve business problems or find insights. 
 
-I was born in South Korea, and lived in Austria, Australia.
-
-
-I'm currently working remotely for xxx in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
 
 ---
+<br/>
 
-*This contents will be edited later. This is a copied example*
+*My Dream is to **make as many people happy as possible**. I worked tirelessly to find a way to achieve that dream. When I was in middle school, I majored in violin in Austria, and when I was in high school, I lived in Australia and tried to find a job to achieve my dream without giving up even when I came back to Korea. Then I read a book called "Banker to the Poor" This book was about Muhammad Yunus, the founder of the Grameen Bank. Usually, banks want to lend to people with good credit, but he breaks this framework and gives loans to the poor, but the banks have found a way to avoid losing money, and they've actually come out as microfinance banks today. I though it was one of innovations, and I was convinced that innovation could make many people happy. I want to achieve this innovation through data-related research.*
 
-You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
 ## Previous work experiences
 
