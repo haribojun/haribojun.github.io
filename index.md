@@ -1,5 +1,5 @@
 ---  
-title: "Youngjun Kim"
+title: "Profile"
 permalink: /
 layout: single
 header:
