@@ -28,8 +28,7 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
   - *Ph.D*
     - Major: Business and Technology Management (Marketing)
     - Q-Marketing Lab
-    - Main Courses: 
-      - Marketing for Hi-tech Company, Advanced Statistics for Management, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management
+    - Main Courses: Marketing for Hi-tech Company, Advanced Statistics for Management, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management
 <br/>
 <br/>
 
