@@ -14,7 +14,7 @@ I'm currently working remotely for xxx in Shanghai, as a full-time **Lead Data E
 
 ---
 
-*This contents will be edited later. This is copied example*
+*This contents will be edited later. This is a copied example*
 
 You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
