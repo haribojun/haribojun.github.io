@@ -19,49 +19,36 @@ I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Tech
 *My Dream is to **make as many people happy as possible**. I worked tirelessly to find a way to achieve that dream. When I was in middle school, I majored in violin in Austria, and when I was in high school, I lived in Australia and tried to find a job to achieve my dream without giving up even when I came back to Korea. Then I read a book called "Banker to the Poor" This book was about Muhammad Yunus, the founder of the Grameen Bank. Usually, banks want to lend to people with good credit, but he breaks this framework and gives loans to the poor, but the banks have found a way to avoid losing money, and they've actually come out as microfinance banks today. I though it was one of innovations, and I was convinced that innovation could make many people happy. I want to achieve this innovation through data-related research.*
 
 
-## Previous work experiences
-
-- **Machine Learning R&D Engineer** - Shanghai:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
-
-- **Research Assistant** - Daejon (South-Korea):  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
-
-- **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
-
 ## Education
 
 - **Graduate Exchange Program** - Daejeon (South-Korea):  
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
-- **Master Of Engineering** - Rouen (France):  
+- **Catholic University of Korea** - Rouen (France):  
   I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
 
 ---
 
 ## Programming Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Python, R, Tensorflow, Keras, Pytorch**
 
-Familiar with: **Java**
+Familiar with: **Stata, SQL**
 
 ## Languages
 
 | Language | Level  |
 |----------|--------|
 | English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Korean   | Fluent |
+| German  | Intermediate |
 
-## CV
+<!-- ## CV
 
 Find attached the PDF version of my CVs:  
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
-Update: 2020/01/13
+Update: 2020/01/13 -->
 
 ## Contact me
 
