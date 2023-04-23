@@ -63,4 +63,4 @@ Update: 2020/01/13
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[jun.k93@kaist.ac.kr](mailto:jun.k93@kaist.ac.kr)_**
