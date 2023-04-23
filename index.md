@@ -1,6 +1,5 @@
 ---  
 title: "Youngjun Kim"
-permalink: /about/
 layout: single
 header:
   overlay_image: /assets/images/background.jpg
