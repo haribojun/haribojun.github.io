@@ -10,6 +10,11 @@ header:
 ## YOUNGJUN KIM
 # About me
 
+I'm a 2nd year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Technology Management. My research interest is the application of Machine Learning or Deep Learning to solve business problems or find insights. 
+
+I was born in South Korea, and lived in Austria, Australia.
+
+
 I'm currently working remotely for xxx in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
 
 ---
