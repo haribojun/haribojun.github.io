@@ -1,5 +1,6 @@
 ---  
 title: "Youngjun Kim"
+permalink: /
 layout: single
 header:
   overlay_image: /assets/images/background.jpg
@@ -8,7 +9,7 @@ header:
 ## YOUNGJUN KIM
 # About me
 
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
+I'm currently working remotely for xxx in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
 
 ---
 
