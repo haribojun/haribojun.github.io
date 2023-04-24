@@ -37,8 +37,7 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
 
 - **Catholic University of Korea** - Bucheon (South-Korea):  
   *Mar.2014 - Feb 2019*
-  - *Graduated with*
-
+    - *Graduated with*
     - Bachelor of laws
     - Bachelor of Fusion for Data Science & Humanities Management
     - Main Courses: Understanding and Utilization Strategy of Big Data Business, Linear Algebra, Big Data Analysis for Business II, Data Visualization, Understanding and Utilization of Deep Learning, Capstone Design: Data Analysis Projects
