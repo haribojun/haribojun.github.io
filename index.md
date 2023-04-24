@@ -35,7 +35,7 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
 
 
 - **Catholic University of Korea** - Bucheon (South-Korea):  
-  *Mar.2014 - Feb 2019*  
+  *(Mar.2014 - Feb.2019)*  
   *Graduated with*
    
     - Bachelor of laws
