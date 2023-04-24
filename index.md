@@ -23,7 +23,6 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
 ## Education
 
 - **Korea Advanced Institute of Science and Techology (KAIST)** - Daejeon (South-Korea):  
-
   *Ph.D. (Mar.2022 - Present)*  
   *M.S. (Mar.2020 - Feb.2022)*
     - Major: Business and Technology Management (Marketing)
