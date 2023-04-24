@@ -62,7 +62,7 @@ Familiar with: **C, Stata, SQL, SAS**
 |----------|--------|
 | English  | Fluent |
 | Korean   | Fluent |
-| German  | Intermediate |
+| German   | Intermediate |
 
 <!-- ## CV
 
