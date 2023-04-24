@@ -24,20 +24,15 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
 
 - **Korea Advanced Institute of Science and Techology (KAIST)** - Daejeon (South-Korea):  
 
-  *Mar.2022 - Present*
-  - *Ph.D*
+  *Ph.D. (Mar.2022 - Present)*  
+  *M.S. (Mar.2020 - Feb.2022)*
     - Major: Business and Technology Management (Marketing)
     - Q-Marketing Lab
     - Main Courses: Marketing for Hi-tech Company, Advanced Statistics for Management, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management
 <br/>
 <br/>
 
-  *Mar.2020 - Feb.2022*
-  - *M.S.*
-    - Major: Business and Technology Management (Marketing)
-
-<br/>
-<br/>
+  
 
 
 - **Catholic University of Korea** - Bucheon (South-Korea):  
