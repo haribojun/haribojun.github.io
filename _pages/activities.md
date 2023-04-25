@@ -49,12 +49,3 @@ header:
 - **Student Council of the College of Social Sciences** 14.03~14.12
 - **Student Constitutional Law Association** (Mock Constitutional Trial) 14.03~14.12
   
-
----
-
-## **Experience**
-
-- 
-
-
----
