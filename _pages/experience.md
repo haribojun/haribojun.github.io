@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.'
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
