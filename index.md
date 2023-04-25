@@ -41,6 +41,22 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
     - Bachelor of laws
     - Bachelor of Fusion for Data Science & Humanities Management
     - Main Courses: Understanding and Utilization Strategy of Big Data Business, Linear Algebra, Big Data Analysis for Business II, Data Visualization, Understanding and Utilization of Deep Learning, Capstone Design: Data Analysis Projects
+<br/>
+<br/>
+
+- **Studied abroad** :  
+  - Mansfield State High School *(2009 - 2011)*  - Brisbane, Australia
+    - Year 9 - Year 11 (Regular Class)
+
+  - Prayner Konservatorium *(2007 - 2008)*  - Wien, Austria
+    - Majored in the Violin
+  - IBMS Perchtoldsdorf (Interssens- und berufsorientierte Mittelschule) *(2008)*  
+    - Year 9 - Year 11 (Regular Class)
+    
+
+  
+<br/>
+<br/>
 
 ---
 
