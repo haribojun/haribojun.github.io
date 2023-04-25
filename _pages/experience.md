@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "AI Innovation Square <br/> (AI Business Model Course)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp_0"
+    url: "https://haribojun.github.io/2023-04-25-exp_0"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
