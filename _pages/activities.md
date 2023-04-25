@@ -28,6 +28,7 @@ header:
   - "The Impact of Package Design Changes on Sales"
 - **The 1st KAIST AI Social Science Research Boot Camp** 21.11.12
   - "Analysis of Product Package Design Elements through Machine Learning"
+- **Student Council of School of Business Technology Management** 21.03~21.12
 - **Korea Intelligent Information Systems Society** 19.10.26
   - "Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
