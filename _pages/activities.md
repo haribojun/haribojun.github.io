@@ -24,6 +24,8 @@ header:
 
 ---
 ## **Activities**
+- **KAIST, BK Workshop** 23.02.15
+  - "The Impact of Package Design Changes on Sales"
 - **The 1st KAIST AI Social Science Research Boot Camp** 21.11.12
   - "Analysis of Product Package Design Elements through Machine Learning"
 - **Korea Intelligent Information Systems Society** 19.10.26
