@@ -49,7 +49,7 @@ feature_row4:
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary
+    btn_class: "btn--primary"
 
 
 ---
