@@ -9,7 +9,9 @@ header:
 
 intro:
   - excerpt: '"Learn from yesterday, live for today, hope for tomorrow.
-   The important thing is not to stop questioning." 
+<br/>
+   The important thing is not to stop questioning."  
+<br/>
    by Albert Einstein'
 
 feature_row:
