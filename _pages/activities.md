@@ -13,7 +13,7 @@ header:
 ---
 ## **Awards**
 
-- **2020 Honor Student Award**  *2020.02.13*
+- **Honor Student Award**  *(Catholic University of Korea) 2020.02.13*
 - **2019 Student Excellent Scholarship** 
 - **National Security Technology Contest** - Award *2018.11.30*
 - **Start-Up Idea Contest** *(Catholic University of Korea)* - Excellence Award *2018.06.14*
