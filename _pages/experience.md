@@ -45,9 +45,9 @@ header:
   - Block-Chain and Financial Technology
 - **Korean Augmentation To the United States Army** (KATUSA, 2nd Infantry Division) 15.01~16.10
   - Full-time discharged (Orderly Room & Training Room)
-- Hidden (Basketball Team)   14.03~14.12, 17.03~19.03
-- Student Council of the College of Social Sciences 14.03~14.12
-- Student Constitutional Law Association (Mock Constitutional Trial) 14.03~14.12
+- **Hidden** (Basketball Team)   14.03~14.12, 17.03~19.03
+- **Student Council of the College of Social Sciences** 14.03~14.12
+- **Student Constitutional Law Association** (Mock Constitutional Trial) 14.03~14.12
   
 
 ---
