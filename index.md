@@ -51,7 +51,7 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
   - Prayner Konservatorium *(2007 - 2008)*  - Wien, Austria
     - Majored in the Violin
   - IBMS Perchtoldsdorf (Interssens- und berufsorientierte Mittelschule) *(2008)*  
-    - Year 9 - Year 11 (Regular Class)
+    - 4.Klasse (Regular Class)
     
 
   
