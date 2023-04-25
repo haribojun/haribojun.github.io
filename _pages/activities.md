@@ -35,7 +35,7 @@ header:
 - **Korea Intelligent Information Systems Society** 19.06.01
   - "Predicting Patterns of Stock Prices Based On Deep Learning"
 - **Undergrauate Research Student** (HCI Lab) 18.02~18.12
-  - "Emotion Recognition Based Personalized Recommendation System Study at VR/AR Context (Assisted)"
+  - "Emotion Recognition Based Personalized Recommendation System Study at VR/AR Context" (Assisted)
 - **CES 2018** Visit (LasVegas) 18.01.08~18.01.14
   - Big Data Knowledge Fusion Overseas Programs
 - **LINCUK** Head 1year 17.03~18.06
