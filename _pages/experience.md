@@ -24,26 +24,26 @@ header:
 
 ---
 ## **Activities**
-- The 1st KAIST AI Social Science Research Boot Camp 21.11.12
+- **The 1st KAIST AI Social Science Research Boot Camp** 21.11.12
   - "Analysis of Product Package Design Elements through Machine Learning"
-- Korea Intelligent Information Systems Society 19.10.26
+- **Korea Intelligent Information Systems Society** 19.10.26
   - "Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"
-- AI Innovation Square (AI Business Model Course) 19.07~19.08
+- **AI Innovation Square** (AI Business Model Course) 19.07~19.08
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
-- Korea Intelligent Information Systems Society 19.06.01
+- **Korea Intelligent Information Systems Society** 19.06.01
   - "Predicting Patterns of Stock Prices Based On Deep Learning"
-- Undergrauate Research Student (HCI Lab) 18.02~18.12
+- **Undergrauate Research Student** (HCI Lab) 18.02~18.12
   - "Emotion Recognition Based Personalized Recommendation System Study at VR/AR Context (Assisted)"
-- CES 2018 Visit (LasVegas) 18.01.08~18.01.14
+- **CES 2018** Visit (LasVegas) 18.01.08~18.01.14
   - Big Data Knowledge Fusion Overseas Programs
-- LINCUK Head 1year 17.03~18.06
+- **LINCUK** Head 1year 17.03~18.06
   - Start-up Promotion Suporting Group
   - Conducted 'Start-up Talk Concert2017' in Conference Room of CUK
-- Oracle BigData Specialist Training Process- I (200hrs) 17.07.15~17.08.26
+- **Oracle BigData Specialist Training Process- I** (200hrs) 17.07.15~17.08.26
   - Java Programing & DB Course
-- Fintech Academy (28 hours) 16.11.08~16.11.11
+- **Fintech Academy** (28 hours) 16.11.08~16.11.11
   - Block-Chain and Financial Technology
-- Korean Augmentation To the United States Army (2nd Infantry Division) 15.01~16.10
+- **Korean Augmentation To the United States Army** (KATUSA, 2nd Infantry Division) 15.01~16.10
   - Full-time discharged (Orderly Room & Training Room)
 - Hidden (Basketball Team)   14.03~14.12, 17.03~19.03
 - Student Council of the College of Social Sciences 14.03~14.12
