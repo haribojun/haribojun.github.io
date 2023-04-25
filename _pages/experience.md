@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/exp_0.png
     alt: "placeholder image 1"
     title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Chagned This is some sample content that goes here with **Markdown** formatting."
     url: "https://haribojun.github.io/2019-08-15-exp_0"
     btn_label: "Read More"
     btn_class: "btn--primary"   
