@@ -8,7 +8,8 @@ header:
   overlay_filter: 0.5
 
 intro:
-  - excerpt: 'Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. by Albert Einstein'
+  - excerpt: 'Learn from yesterday, live for today, hope for tomorrow.
+   The important thing is not to stop questioning. by Albert Einstein'
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
