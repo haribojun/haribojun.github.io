@@ -27,7 +27,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://haribojun.github.io/exp_0"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
