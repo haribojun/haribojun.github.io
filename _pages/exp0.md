@@ -12,7 +12,8 @@ header:
 
 # DeepTree
 
-![Image](https://haribojun.github.io/assets/images/exp_0.png)
+![Image](https://haribojun.github.io/assets/images/exp_0.png){: .align-center}
+
 
 ---
   
