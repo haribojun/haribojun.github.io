@@ -1,5 +1,5 @@
 ---  
-title: "AI Innovation Squarek"
+title: "AI Innovation Square"
 permalink: /exp0/
 layout: single
 classes: wide
