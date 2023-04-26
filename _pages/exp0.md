@@ -20,6 +20,8 @@ header:
 
 
 ---
-![Image](https://haribojun.github.io/assets/images/exp_0-2.JPG)
-![Image](https://haribojun.github.io/assets/images/exp_0-3.jpg)
+![Image](https://haribojun.github.io/assets/images/exp_0-2.JPG){: width="100" height="100"}
+
+![Image](https://haribojun.github.io/assets/images/exp_0-3.jpg){: width="100" height="100"}
+
 
