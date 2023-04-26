@@ -20,8 +20,8 @@ header:
 
 
 ---
-![Image](https://haribojun.github.io/assets/images/exp_0-2.JPG){: width="100" height="100"}
+![Image](https://haribojun.github.io/assets/images/exp_0-2.JPG){: width="586" }
 
-![Image](https://haribojun.github.io/assets/images/exp_0-3.jpg){: width="100" height="100"}
+![Image](https://haribojun.github.io/assets/images/exp_0-3.jpg)
 
-<center><img src="[/img/myImg.png](https://haribojun.github.io/assets/images/exp_0-2.JPG)" width="300" height="300"></center>
+<center><img src="[exp_0-2.JPG](https://haribojun.github.io/assets/images/exp_0-2.JPG)" width="300" height="300"></center>
