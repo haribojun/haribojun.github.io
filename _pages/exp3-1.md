@@ -10,7 +10,7 @@ header:
 ---
   
 
-#[Contest] 2019 Big Contest *19.07 ~ 19.09*
+# [Contest] 2019 Big Contest *19.07 ~ 19.09*
 
 
 ![Image](https://haribojun.github.io/assets/images/exp_3.png){: .align-center}
