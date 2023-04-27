@@ -84,24 +84,16 @@ feature_row3:
 feature_row4:
   - image_path: assets/images/exp_8.png
     alt: "placeholder image 1"
-    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data"
-    excerpt: "Role: Team Leader <br/> Excellence Award "
-    url: "https://haribojun.github.io/exp5"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
+    title: "2018 CES Las Vegas"
+    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
   - image_path: /assets/images/exp_9.png
     alt: "placeholder image 2"
-    title: "[Understanding and Utilizing Big Data] Stock Lecture Analysis"
+    title: "2018 Freshman Orientation Special Student Lecture."
     excerpt: "Individual Project"
-    url: "https://haribojun.github.io/exp6"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/exp_10.png
-    title: "[Understanding and Utilizing Big Data] Marketing for a Stew Restaurant Using Data"
-    excerpt: "Individual Project"
-    url: "https://haribojun.github.io/exp7"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "2017 Startup Talk Concert"
+    excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
+
 
 
 # feature_row2:
