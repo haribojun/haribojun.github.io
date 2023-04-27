@@ -28,3 +28,6 @@ If the estimated value was high, it was estimated as fake news.
   
 
 ![Image](https://haribojun.github.io/assets/images/exp_13.png){: width="586" .align-center }
+
+
+

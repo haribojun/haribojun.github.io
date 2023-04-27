@@ -62,9 +62,9 @@ feature_row2:
 feature_row3:
   - image_path: assets/images/exp_5.png
     alt: "placeholder image 1"
-    title: "2019 Weather Big Data Contest"
-    excerpt: "Role: Data Analysis"
-    url: "https://haribojun.github.io/exp3"
+    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data 2018."
+    excerpt: "Role: Team Leader <br/> Excellence Award "
+    url: "https://haribojun.github.io/exp5"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_6.png
