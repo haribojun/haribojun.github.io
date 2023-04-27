@@ -14,6 +14,8 @@ Hello!
 
 
 
+---
+
 ## Projects
 
 - *2022.04.~2022.12.* Classified Project (PI: Hoon Sohn, KAIST) 
@@ -30,6 +32,7 @@ Hello!
   - Tools: Python, Google API
   - Objective: Can we find the right voice for a brand?
 
+---
 
 ## TA
 
