@@ -36,10 +36,10 @@ header:
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
 - **Korea Intelligent Information Systems Society** 19.06.01
   - "Predicting Patterns of Stock Prices Based On Deep Learning"
-- **Global Creative Talent Program** 18.01.22~18.02.01
-  - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China.
 - **Undergrauate Research Student** (HCI Lab) 18.02~18.12
   - "Emotion Recognition Based Personalized Recommendation System Study at VR/AR Context" (Assisted)
+- **Global Creative Talent Program** 18.01.22~18.02.01
+  - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China.
 - **CES 2018** Visit (LasVegas) 18.01.08~18.01.14
   - Big Data Knowledge Fusion Overseas Programs
 - **LINCUK** Head 1year 17.03~18.06
