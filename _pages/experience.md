@@ -29,8 +29,8 @@ feature_row:
     url: "https://haribojun.github.io/exp1"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: /assets/images/exp_han0.png
+    title: "Hanium"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
