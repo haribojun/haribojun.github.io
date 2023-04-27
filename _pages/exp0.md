@@ -1,5 +1,5 @@
 ---  
-title: "AI Innovation Square"
+title: "Experience"
 permalink: /exp0/
 layout: single
 classes: wide
@@ -10,7 +10,8 @@ header:
 ---
   
 
-# DeepTree
+# AI Innovation Square
+## DeepTree
 
 ![Image](https://haribojun.github.io/assets/images/exp_0.png){: .align-center}
 
