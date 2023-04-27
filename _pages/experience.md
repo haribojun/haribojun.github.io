@@ -24,6 +24,28 @@ feature_row:
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_1.png
     alt: "placeholder image 2"
+    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://haribojun.github.io/exp1"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://haribojun.github.io/exp2"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: assets/images/exp_0.png
+    alt: "placeholder image 1"
+    title: "AI Innovation Square <br/> (AI Business Model Course)"
+    excerpt: "Chagned This is some sample content that goes here with **Markdown** formatting."
+    url: "https://haribojun.github.io/exp0"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
+  - image_path: /assets/images/exp_1.png
+    alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://haribojun.github.io/exp1"
@@ -35,6 +57,7 @@ feature_row:
     url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 
 
 # feature_row2:
@@ -70,6 +93,8 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
