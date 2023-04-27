@@ -40,13 +40,13 @@ feature_row2:
   - image_path: assets/images/exp_2.png
     alt: "placeholder image 1"
     title: "2019 Weather Big Data Contest"
-    excerpt: "Chagned This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Role: Data Analysis"
     url: "https://haribojun.github.io/exp3"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_3.png
     alt: "placeholder image 2"
-    title: "[Contest] 2019 Big Contest *19.07 ~ 19.09*"
+    title: "2019 Big Contest
     excerpt: "Role: Team leader"
     url: "https://haribojun.github.io/exp3-1"
     btn_label: "Read More"

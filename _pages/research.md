@@ -11,3 +11,12 @@ header:
 ## Research
 
 Hello!
+
+
+
+## Projects
+
+- *2022.04.~2022.12.* Classified Project (PI: Hoon Sohn, KAIST) Role: Big Data Analysis
+  - Tools : Ubuntu, Server, Python
+  
+- 
