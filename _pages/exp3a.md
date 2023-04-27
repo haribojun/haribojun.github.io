@@ -1,6 +1,6 @@
 ---  
 title: "Experience"
-permalink: /exp3-1/
+permalink: /exp3a/
 layout: single
 classes: wide
 author_profile: true

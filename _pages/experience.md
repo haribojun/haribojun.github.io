@@ -48,7 +48,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "2019 Big Contest
     excerpt: "Role: Team leader"
-    url: "https://haribojun.github.io/exp3-1"
+    url: "https://haribojun.github.io/exp3a"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_4.png
@@ -71,7 +71,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "2019 Big Contest
     excerpt: "Role: Team leader"
-    url: "https://haribojun.github.io/exp3-1"
+    url: "https://haribojun.github.io/exp3a"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
@@ -105,8 +105,6 @@ feature_row3:
 #     url: "#test-link"
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
-
-
 ---
 
 
