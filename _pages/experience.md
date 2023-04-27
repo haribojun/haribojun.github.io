@@ -81,6 +81,29 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_row4:
+  - image_path: assets/images/exp_5.png
+    alt: "placeholder image 1"
+    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data"
+    excerpt: "Role: Team Leader <br/> Excellence Award "
+    url: "https://haribojun.github.io/exp5"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
+  - image_path: /assets/images/exp_6.png
+    alt: "placeholder image 2"
+    title: "[Understanding and Utilizing Big Data] Stock Lecture Analysis"
+    excerpt: "Individual Project"
+    url: "https://haribojun.github.io/exp6"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/exp_7.png
+    title: "[Understanding and Utilizing Big Data] Marketing for a Stew Restaurant Using Data"
+    excerpt: "Individual Project"
+    url: "https://haribojun.github.io/exp7"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
@@ -120,6 +143,8 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
 <!--  {% include feature_row id="feature_row2" type="left" %}
 
  {% include feature_row id="feature_row3" type="right" %}

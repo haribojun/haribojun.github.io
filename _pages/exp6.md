@@ -21,7 +21,10 @@ header:
 - I hypothesized that "people who applied for seminars/lectures frequently in the past are less likely to confirm their attendance at lectures." I analyzed the past application history of lecture applicants using data from "On-Off Mix."
 - Although it is not big data, I wanted to analyze the data I had,  I concluded that I needed to charge for venue rental fees to reduce no-shows.
 
+
+
 ---
+
   
 
 
