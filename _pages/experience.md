@@ -18,20 +18,20 @@ feature_row:
   - image_path: assets/images/exp_0.png
     alt: "placeholder image 1"
     title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "Chagned This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Role: Team Leader"
     url: "https://haribojun.github.io/exp0"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_1.png
     alt: "placeholder image 2"
     title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Role: Team Leader"
     url: "https://haribojun.github.io/exp1"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_han0.png
     title: "Hanium"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "projects with ICT industry experts"
     url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
     btn_class: "btn--primary"
