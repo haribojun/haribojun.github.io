@@ -104,9 +104,6 @@ feature_row2:
  -->
 
 
-## **Experience**
-
-- 
 
 
 ---
