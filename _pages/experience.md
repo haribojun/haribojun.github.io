@@ -27,13 +27,13 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp0"
+    url: "https://haribojun.github.io/exp1"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp11"
+    url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
