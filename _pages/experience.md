@@ -36,6 +36,30 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+
+feature_row2:
+  - image_path: assets/images/exp_2.png
+    alt: "placeholder image 1"
+    title: "AI Innovation Square <br/> (AI Business Model Course)"
+    excerpt: "Role: Team Leader"
+    url: "https://haribojun.github.io/exp3"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
+  - image_path: /assets/images/exp_3.png
+    alt: "placeholder image 2"
+    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
+    excerpt: "Role: Team Leader"
+    url: "https://haribojun.github.io/exp3a"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/exp_4.png
+    title: "Hanium"
+    excerpt: "Projects with ICT industry experts"
+    url: "https://haribojun.github.io/exp3a"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
 # feature_row2:
 #   - image_path: assets/images/exp_2.png
 #     alt: "placeholder image 1"
