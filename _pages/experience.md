@@ -31,7 +31,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_han0.png
     title: "Hanium"
-    excerpt: "projects with ICT industry experts"
+    excerpt: "Projects with ICT industry experts"
     url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
     btn_class: "btn--primary"
