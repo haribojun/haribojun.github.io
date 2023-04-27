@@ -76,7 +76,7 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp4"
+    url: "https://haribojun.github.io/exp1"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
