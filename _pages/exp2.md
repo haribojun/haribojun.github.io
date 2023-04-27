@@ -38,5 +38,6 @@ The ICT mentoring program, which started in 2004, is a workforce development pro
 ---
 
 
-![Image](https://haribojun.github.io/assets/images/exp_han.jpg){: .align-center}
+![Image](https://haribojun.github.io/assets/images/exp_han.jpg){: width="586" .align-center }
+
 
