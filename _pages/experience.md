@@ -88,8 +88,8 @@ feature_row4:
     excerpt: "Big Data Knowledge Fusion Overseas Programs" 
   - image_path: /assets/images/exp_9.png
     alt: "placeholder image 2"
-    title: "2018 Freshman Orientation Special Student Lecture."
-    excerpt: "Individual Project"
+    title: "2018 Freshman Orientation Special Lecture by Student."
+    excerpt: "Presented about the know-how to maximize the benefits from the university."
   - image_path: /assets/images/exp_10.png
     title: "2017 Startup Talk Concert"
     excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
