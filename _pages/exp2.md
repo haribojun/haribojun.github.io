@@ -1,5 +1,5 @@
 ---  
-title: "Hanium"
+title: "Experience"
 permalink: /exp2/
 layout: single
 classes: wide
