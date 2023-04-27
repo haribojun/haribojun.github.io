@@ -1,6 +1,6 @@
 ---  
 title: "AI Innovation Square"
-permalink: /exp0/
+permalink: /exp1/
 layout: single
 classes: wide
 author_profile: true
