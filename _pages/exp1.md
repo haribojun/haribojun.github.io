@@ -1,5 +1,5 @@
 ---  
-title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
+title: "Experience"
 permalink: /exp1/
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ header:
 ---
   
 
-
+# Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning
 
 ![Image](https://haribojun.github.io/assets/images/exp_1.png){: .align-center}
 
