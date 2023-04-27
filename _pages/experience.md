@@ -71,7 +71,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "2019 Big Contest"
     excerpt: "Role: Team leader"
-    url: "https://haribojun.github.io/exp3a"
+    url: "https://haribojun.github.io/exp6"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
