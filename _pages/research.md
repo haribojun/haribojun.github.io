@@ -30,8 +30,6 @@ Hello!
   - Tools: Python, Google API
   - Objective: Can we find the right voice for a brand?
 
-- 
-
 
 ## TA
 
