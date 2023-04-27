@@ -37,11 +37,11 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: assets/images/exp_0.png
+  - image_path: assets/images/exp_2.png
     alt: "placeholder image 1"
-    title: "AI Innovation Square <br/> (AI Business Model Course)"
+    title: "2019 Weather Big Data Contest"
     excerpt: "Chagned This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp0"
+    url: "https://haribojun.github.io/exp3"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_1.png
