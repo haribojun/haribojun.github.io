@@ -53,7 +53,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_4.png
-    title: "[National Security New Technology Contest] Fake News Discrimination Technology 2018."
+    title: "[National Security New Technology Contest] Fake News Discrimination Technology"
     excerpt: "Award"
     url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
@@ -62,22 +62,22 @@ feature_row2:
 feature_row3:
   - image_path: assets/images/exp_5.png
     alt: "placeholder image 1"
-    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data 2018."
+    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data"
     excerpt: "Role: Team Leader <br/> Excellence Award "
     url: "https://haribojun.github.io/exp5"
     btn_label: "Read More"
     btn_class: "btn--primary"   
   - image_path: /assets/images/exp_6.png
     alt: "placeholder image 2"
-    title: "2019 Big Contest"
-    excerpt: "Role: Team leader"
+    title: "[Understanding and Utilizing Big Data] Stock Lecture Analysis"
+    excerpt: "Individual Project"
     url: "https://haribojun.github.io/exp6"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp1"
+  - image_path: /assets/images/exp_7.png
+    title: "[Understanding and Utilizing Big Data] Marketing for a Stew Restaurant Using Data"
+    excerpt: "Individual Project"
+    url: "https://haribojun.github.io/exp7"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
