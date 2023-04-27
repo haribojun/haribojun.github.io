@@ -53,9 +53,9 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_4.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp3"
+    title: "[National Security New Technology Contest] Fake News Discrimination Technology 2018."
+    excerpt: "Award"
+    url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
