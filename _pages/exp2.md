@@ -12,7 +12,7 @@ header:
 
 # Hanium
 
-![Image](https://haribojun.github.io/assets/images/exp_han0.png){: .align-center}
+![Image](https://haribojun.github.io/assets/images/exp_han1.png){: .align-center}
 
 
 ---

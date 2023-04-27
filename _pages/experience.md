@@ -29,7 +29,7 @@ feature_row:
     url: "https://haribojun.github.io/exp1"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/exp_han0.png
+  - image_path: /assets/images/exp_han1.png
     title: "Hanium"
     excerpt: "Projects with ICT industry experts"
     url: "https://haribojun.github.io/exp2"
