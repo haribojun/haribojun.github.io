@@ -44,11 +44,11 @@ feature_row2:
     url: "https://haribojun.github.io/exp3"
     btn_label: "Read More"
     btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_1.png
+  - image_path: /assets/images/exp_3.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp1"
+    title: "[Contest] 2019 Big Contest *19.07 ~ 19.09*"
+    excerpt: "Role: Team leader"
+    url: "https://haribojun.github.io/exp3-1"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
