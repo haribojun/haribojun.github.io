@@ -21,5 +21,7 @@ header:
 - During the summer months (June, July, and August), search for the hashtag #dailylook, crawling, and classified clothing.
 - Observed the combination and frequency of tops and bottoms, discovered clothing patterns based on weather information, and determine the length of clothing.
 - To create the desired data, extracted information from images, performed labeling, and analyzed.
+  
+  
 ---
   
