@@ -35,6 +35,7 @@ feature_row:
     url: "https://haribojun.github.io/exp2"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: assets/images/exp_2.png
     alt: "placeholder image 1"
@@ -56,6 +57,7 @@ feature_row2:
     url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: assets/images/exp_5.png
     alt: "placeholder image 1"
@@ -102,7 +104,6 @@ feature_row3:
 #     url: "#test-link"
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
-
 ---
 
 
