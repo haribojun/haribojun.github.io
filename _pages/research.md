@@ -16,7 +16,27 @@ Hello!
 
 ## Projects
 
-- *2022.04.~2022.12.* Classified Project (PI: Hoon Sohn, KAIST) Role: Big Data Analysis
+- *2022.04.~2022.12.* Classified Project (PI: Hoon Sohn, KAIST) 
+  - Role: Big Data Analysis
   - Tools : Ubuntu, Server, Python
-  
+
+- *2021.05.~2021.12.* Research on the Change of personal behavior and business strategy in the Post-AI era (KAIST) 
+  - Role: Research Assisted
+  - Tools : Python
+  - Objective: Analysis and prediction of the Metaverse, which is receiving attention as a new paradigm in the Post-AI era. & Strategies for AI startups in the Post-AI era that are threatened by the lack of proprietary data assets, which are the foundation of survival.
+
+- *2020.03.~2020.12.* Brand Voiceprint (KAIST) 
+  - Roles: Research Assisted
+  - Tools: Python, Google API
+  - Objective: Can we find the right voice for a brand?
+
 - 
+
+
+## TA
+
+- *2023.03.~2022.06.* Principles of Marketing (BTM236)
+- *2022.09.~2022.12.* Marketing for High-Tech Companies (MSB536)
+- *2022.03.~2022.06.* Marketing (MSB236)
+- *2021.03.~2021.06.* License Agreement (ITM565)
+
