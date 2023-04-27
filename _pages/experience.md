@@ -36,27 +36,27 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
-  - image_path: assets/images/exp_2.png
-    alt: "placeholder image 1"
-    title: "2019 Weather Big Data Contest"
-    excerpt: "Role: Data Analysis"
-    url: "https://haribojun.github.io/exp3"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_3.png
-    alt: "placeholder image 2"
-    title: "2019 Big Contest
-    excerpt: "Role: Team leader"
-    url: "https://haribojun.github.io/exp3a"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exp_4.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://haribojun.github.io/exp4"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_row2:
+#   - image_path: assets/images/exp_2.png
+#     alt: "placeholder image 1"
+#     title: "2019 Weather Big Data Contest"
+#     excerpt: "Role: Data Analysis"
+#     url: "https://haribojun.github.io/exp3"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"   
+#   - image_path: /assets/images/exp_3.png
+#     alt: "placeholder image 2"
+#     title: "2019 Big Contest
+#     excerpt: "Role: Team leader"
+#     url: "https://haribojun.github.io/exp3a"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - image_path: /assets/images/exp_4.png
+#     title: "Placeholder 3"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "https://haribojun.github.io/exp4"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
 # feature_row3:
 #   - image_path: assets/images/exp_5.png
