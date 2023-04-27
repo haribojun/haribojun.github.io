@@ -10,7 +10,7 @@ header:
 ---
   
 
-# DeepTree
+# Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning
 
 ![Image](https://haribojun.github.io/assets/images/exp_1.png){: .align-center}
 
