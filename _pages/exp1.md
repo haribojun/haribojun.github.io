@@ -28,6 +28,7 @@ To sum up, this study is expected to contribute to further studies on the predic
 ---
 
 - Kim Youngjun, Kim Yeojeong, Lee InSun, & Lee, Hong Joo (2019). Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning. The Journal of Bigdata, 4(2), 1-12.
+  - https://www.koreascience.or.kr/article/JAKO201919163740696.pdf
 
 - Korea Intelligent Information Systems Society 19.06.01
   - "Predicting Patterns of Stock Prices Based On Deep Learning"
