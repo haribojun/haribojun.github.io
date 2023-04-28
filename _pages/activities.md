@@ -34,6 +34,8 @@ header:
   - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China.
 - **CES 2018** Visit (LasVegas) 18.01.08~18.01.14
   - Big Data Knowledge Fusion Overseas Programs
+- **Entrepreneurship Training Course** 17.11.03~17.11.04
+  - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions.
 - **LINCUK** Head 1year 17.03~18.06
   - Start-up Promotion Suporting Group
   - Conducted 'Start-up Talk Concert2017' in Conference Room of CUK
