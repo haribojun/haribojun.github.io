@@ -54,7 +54,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: /assets/images/exp_4.png
     title: "[National Security New Technology Contest] Fake News Discrimination Technology"
-    excerpt: "Award"
+    excerpt: "Role: Team Leader <br/> Award"
     url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
     btn_class: "btn--primary"
