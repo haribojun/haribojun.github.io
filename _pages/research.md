@@ -13,8 +13,7 @@ header:
 Working on it!
 
 
-- Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/) Journal of Korea Bigdata Society, 4(2), 1-12.
-
+- Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/)  The Journal of Bigdata, 4(2), 1-12.
 
 ---
 ## Presentation
