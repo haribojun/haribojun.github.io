@@ -14,7 +14,22 @@ Working on it!
 
 
 
+
+
 ---
+## Presentation
+
+- **KAIST, BK Workshop** 23.02.15
+  - "The Impact of Package Design Changes on Sales"
+- **KAIST AI Social Science Research Boot Camp** 21.11.12
+  - "Analysis of Product Package Design Elements through Machine Learning"
+- **Korea Intelligent Information Systems Society** 19.10.26
+  - "Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"
+- **Korea Intelligent Information Systems Society** 19.06.01
+  - "Predicting Patterns of Stock Prices Based On Deep Learning"
+
+---
+
 
 ## Projects
 

@@ -25,17 +25,9 @@ header:
 
 ---
 ## **Activities**
-- **KAIST, BK Workshop** 23.02.15
-  - "The Impact of Package Design Changes on Sales"
-- **The 1st KAIST AI Social Science Research Boot Camp** 21.11.12
-  - "Analysis of Product Package Design Elements through Machine Learning"
 - **Student Council of School of Business Technology Management** 21.03~21.12
-- **Korea Intelligent Information Systems Society** 19.10.26
-  - "Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
-- **Korea Intelligent Information Systems Society** 19.06.01
-  - "Predicting Patterns of Stock Prices Based On Deep Learning"
 - **Undergrauate Research Student** (HCI Lab) 18.02~18.12
   - "Emotion Recognition Based Personalized Recommendation System Study at VR/AR Context" (Assisted)
 - **Global Creative Talent Program** 18.01.22~18.02.01
