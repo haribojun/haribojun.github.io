@@ -25,6 +25,7 @@ header:
 
 ---
 ## **Activities**
+- **Lab leader of Q-Marketing Lab** 23.01~23.12
 - **Student Council of School of Business Technology Management** 21.03~21.12
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
