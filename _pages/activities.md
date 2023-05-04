@@ -25,6 +25,8 @@ header:
 
 ---
 ## **Activities**
+- **Big Data Analysis Boot Camp** (KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13
+  - The course gave students "hands-on" experience in using SAS through dealing with CRSP, Computstat, the UNIX based operating system at WRDS.
 - **Lab leader of Q-Marketing Lab** 23.01~23.12
 - **Student Council of School of Business Technology Management** 21.03~21.12
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
