@@ -10,7 +10,7 @@ header:
 ---
   
 
-# AI Innovation Square
+# AI Innovation Square (AI Business Model Course) 19.07~19.08
 ## DeepTree
 
 ![Image](https://haribojun.github.io/assets/images/exp_0.png){: .align-center}
