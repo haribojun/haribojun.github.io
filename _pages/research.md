@@ -42,7 +42,7 @@ Working on it!
   - Objective: Analysis and prediction of the Metaverse, which is receiving attention as a new paradigm in the Post-AI era. & Strategies for AI startups in the Post-AI era that are threatened by the lack of proprietary data assets, which are the foundation of survival.
 
 - *2020.03.~2020.12.* Brand Voiceprint (KAIST) 
-  - Roles: Research Assisted
+  - Role: Research Assisted
   - Tools: Python, Google API
   - Objective: Can we find the right voice for a brand?
 
