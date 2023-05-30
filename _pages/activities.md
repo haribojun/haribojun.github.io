@@ -15,7 +15,7 @@ header:
 
 - **Honor Student Award**  *(Catholic University of Korea) 2020.02.13*
 - **2019 Student Excellent Scholarship** 
-- **National Security Technology Contest** - Award *2018.11.30*
+- **National Security New Technology Contest** - Award *2018.11.30*
 - **Start-Up Idea Contest** *(Catholic University of Korea)* - Excellence Award *2018.06.14*
 - **An Essay on Participating in the Competitiveness of the University's Humanities** - Excellence Award in South Korea & The Best Prize in Catholic University of Korea *2018.06.14*
 - **2017 Student Excellent Scholarship** 
