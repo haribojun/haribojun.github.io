@@ -19,7 +19,7 @@ header:
 - **Start-Up Idea Contest** *(Catholic University of Korea)* - Excellence Award *2018.06.14*
 - **An Essay on Participating in the Competitiveness of the University's Humanities** - Excellence Award in South Korea & The Best Prize in Catholic University of Korea *2018.06.14*
 - **2017 Student Excellent Scholarship** 
-- **Award Certificate of Exemplary KATUSA** *(Eighth United States Army Republic of Korea Army Support group) 2016.10.11*
+- **Award Certificate of Exemplary KATUSA** *(Commander of Eighth United States Army Republic of Korea Army Support group) 2016.10.11*
 - **Award Certificate of Outstanding KATUSA** *(Area III RSG Commander) 2015.06.29*
 - **2014 Student Excellent Scholarship** 
 
