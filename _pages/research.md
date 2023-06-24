@@ -50,7 +50,7 @@ It will soon be updated!
 
 ## TA
 
-- *2023.03.~2022.06.* Principles of Marketing (BTM236)
+- *2023.03.~2023.06.* Principles of Marketing (BTM236)
 - *2022.09.~2022.12.* Marketing for High-Tech Companies (MSB536)
 - *2022.03.~2022.06.* Marketing (MSB236)
 - *2021.03.~2021.06.* License Agreement (ITM565)
