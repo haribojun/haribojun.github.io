@@ -32,7 +32,7 @@ It will soon be updated!
 
 ## Projects
 
-- *2022.04.~2022.12.* Classified Project (PI: Hoon Sohn, KAIST) 
+- *2022.04.~2022.12.* Global Technology Strategy Analysis Platform Research and Development (PI: Hoon Sohn, KAIST) 
   - Role: Big Data Analysis
   - Tools : Ubuntu, Server, Python
 
