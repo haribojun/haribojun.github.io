@@ -27,7 +27,7 @@ I'm a second year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and T
   *M.S. (Mar.2020 - Feb.2022)*
     - Major: Business and Technology Management (Marketing)
     - Advisor: Prof. Hye-jin Kim
-    - Q-Marketing Lab (Quantitative Marketing)
+    - [Q-Marketing Lab (Quantitative Marketing) ](https://reinvented-park-ad3.notion.site/About-Us-724a4764f8cf4e6cb4fb3c93f5788267?pvs=4)
     - Main Courses: Marketing for Hi-tech Company, Advanced Statistics for Management, Advanced Quantitative Analysis, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management, Accounting Principles, Technology Management and Corporate Finance, Innovation Management and Strategy, Research Methodologies II
     - All classes at KAIST are conducted in English.
 <br/>
