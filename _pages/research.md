@@ -12,20 +12,24 @@ header:
 
 It will soon be updated!
 
-
 - Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee (2019). [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/)  The Journal of Bigdata, 4(2), 1-12.
 
 ---
 ## Presentation
 
-- **KAIST, BK Workshop** 23.02.15
-  - "The Impact of Package Design Changes on Sales"
-- **KAIST AI Social Science Research Boot Camp** 21.11.12
-  - "Analysis of Product Package Design Elements through Machine Learning"
-- **Korea Intelligent Information Systems Society** 19.10.26
-  - "Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"
-- **Korea Intelligent Information Systems Society** 19.06.01
-  - "Predicting Patterns of Stock Prices Based On Deep Learning"
+- **"From Promotions to Consumer Preference and Choice: Investigating the Interplay of Health Claims and Bonus Pack Messages"**
+  - KAIST, BrainKorea Workshop, 24.02.18
+  - The Korean Association for Information Society, 23.12.18
+- **"The Impact of Package Design Changes on Sales"**
+  - KAIST, BrainKorea Workshop, 23.02.15
+- **"Analysis of Product Package Design Elements through Machine Learning"**
+  - KAIST AI Social Science Research Boot Camp, 21.11.12
+- **"Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars"**
+  - Korea Intelligent Information Systems Society, 19.10.26
+- **"Predicting Patterns of Stock Prices Based On Deep Learning"**
+  - Korea Intelligent Information Systems Society, 19.06.01
+
+
 
 ---
 
