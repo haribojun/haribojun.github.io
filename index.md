@@ -22,7 +22,7 @@ I'm a third year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Te
 ---
 ## Education
 
-- **Korea Advanced Institute of Science and Techology (KAIST)** - Daejeon (South-Korea):  
+- **Korea Advanced Institute of Science and Techology (KAIST)** - *Daejeon (South-Korea)*:  
   *Ph.D. (Mar.2022 - Present)*  
   *M.S. (Mar.2020 - Feb.2022)*
     - Major: Business and Technology Management (Marketing)
@@ -34,7 +34,7 @@ I'm a third year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Te
 <br/>
 
 
-- **Catholic University of Korea** - Bucheon (South-Korea):  
+- **Catholic University of Korea** - *Bucheon (South-Korea)*:  
   *(Mar.2014 - Feb.2020)*  
   *Graduated with honors*
     - Bachelor of laws
@@ -44,10 +44,10 @@ I'm a third year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Te
 <br/>
 
 - **Studied abroad** :  
-  - Mansfield State High School *(2009 - 2011)*  - Brisbane, Australia
+  - Mansfield State High School *(2009 - 2011)  - Brisbane, Australia*
     - Year 9 - Year 11 (Regular Class)
 
-  - Prayner Konservatorium *(2007 - 2008)*  - Wien, Austria
+  - Prayner Konservatorium *(2007 - 2008)  - Wien, Austria*
     - Majored in the Violin
   - IBMS Perchtoldsdorf (Interssens- und berufsorientierte Mittelschule) *(2008)- Wien, Austria*  
     - 4.Klasse (Regular Class)
@@ -78,7 +78,7 @@ Familiar with: **C, Stata, SQL, SAS**
 Find attached the PDF version of my CVs:  
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
 
-Update: 2020/01/13 -->
+Update: 2024/02/18 -->
 
 ## Contact me
 
