@@ -12,6 +12,7 @@ header:
 
 It will soon be updated!
 
+- Youngjun Kim, Hye-jin Kim (2022). ["Analysis of product package design elements through machine learning."](https://koasas.kaist.ac.kr/handle/10203/308150), Master's Thesis
 - Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee (2019). [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/)  The Journal of Bigdata, 4(2), 1-12.
 
 ---
