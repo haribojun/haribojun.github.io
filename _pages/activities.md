@@ -13,6 +13,7 @@ header:
 ---
 ## **Awards**
 
+- **Best Proposal Award**  *(Korean Marketing Association) - Grand Prize 2024.02.20*
 - **Honor Student Award**  *(Catholic University of Korea) 2020.02.13*
 - **2019 Student Excellent Scholarship** 
 - **National Security New Technology Contest** - Award *2018.11.30*
