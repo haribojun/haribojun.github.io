@@ -45,7 +45,7 @@ header:
   - Conducted 'Start-up Talk Concert2017' in Conference Room of CUK
 - **Oracle BigData Specialist Training Process- I** (200hrs) 17.07.15~17.08.26
   - Java Programing & DB Course
-- **Fintech Academy** (Korea Internet & Security Agency [KISA], 28 hours) 16.11.08~16.11.11
+- **Fintech Academy** (Korea Internet & Security Agency [KISA], 28hrs) 16.11.08~16.11.11
   - Block-Chain and Financial Technology
 - **Korean Augmentation To the United States Army** (KATUSA, 2nd Infantry Division) 15.01~16.10
   - Full-time discharged (Orderly Room & Training Room)
