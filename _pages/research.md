@@ -37,7 +37,7 @@ It will soon be updated!
 
 ## Projects
 
-- *2023.08.~ * ScalarData R&D MOU with KAIST Q-Marketing Lab for EV Charging
+- *2023.08.~* ScalarData R&D MOU with KAIST Q-Marketing Lab for EV Charging
   - Role: Data Analysis & Conducting Field Experiments
   - Successfully established a Memorandum of Understanding(MOU)
   - [News](https://www.hankyung.com/economy/article/202308259512O)
