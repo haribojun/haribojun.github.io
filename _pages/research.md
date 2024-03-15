@@ -20,14 +20,11 @@ It will soon be updated!
 
 - **From Promotions to Consumer Preference and Choice: Investigating the Interplay of Health Claims and Bonus Pack Messages**
   - KAIST, BrainKorea Workshop, 24.02.18
-  - The Korean Association for Information Society, 23.12.18
-  - [PDF](https://haribojun.github.io/assets/pdfs/240218_presentation.pdf)
+  - The Korean Association for Information Society, 23.12.18 [PDF](https://haribojun.github.io/assets/pdfs/240218_presentation.pdf)
 - **The Impact of Package Design Changes on Sales**
-  - KAIST, BrainKorea Workshop, 23.02.15
-  - [PDF](https://haribojun.github.io/assets/pdfs/230215_presentation.pdf)
+  - KAIST, BrainKorea Workshop, 23.02.15 [PDF](https://haribojun.github.io/assets/pdfs/230215_presentation.pdf)
 - **Analysis of Product Package Design Elements through Machine Learning**
-  - KAIST AI Social Science Research Boot Camp, 21.11.12
-  - [PDF](https://haribojun.github.io/assets/pdfs/211112_presentation.pdf)
+  - KAIST AI Social Science Research Boot Camp, 21.11.12 [PDF](https://haribojun.github.io/assets/pdfs/211112_presentation.pdf)
 - **Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars**
   - Korea Intelligent Information Systems Society, 19.10.26
 - **Predicting Patterns of Stock Prices Based On Deep Learning**
