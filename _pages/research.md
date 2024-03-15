@@ -44,11 +44,11 @@ It will soon be updated!
 
 - *2022.04.~2022.12.* Global Technology Strategy Analysis Platform Research and Development (PI: Hoon Sohn, KAIST) 
   - Role: Big Data Analysis
-  - Tools : Ubuntu, Server, Python
+  - Tools: Ubuntu, Server, Python
 
 - *2021.05.~2021.12.* Research on the Change of personal behavior and business strategy in the Post-AI era (KAIST) 
   - Role: Research Assisted
-  - Tools : Python
+  - Tools: Python
   - Objective: Analysis and prediction of the Metaverse, which is receiving attention as a new paradigm in the Post-AI era. & Strategies for AI startups in the Post-AI era that are threatened by the lack of proprietary data assets, which are the foundation of survival.
 
 - *2020.03.~2020.12.* Brand Voiceprint (KAIST) 
