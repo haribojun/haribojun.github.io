@@ -21,8 +21,10 @@ It will soon be updated!
 - **From Promotions to Consumer Preference and Choice: Investigating the Interplay of Health Claims and Bonus Pack Messages**
   - KAIST, BrainKorea Workshop, 24.02.18
   - The Korean Association for Information Society, 23.12.18
+  - [PDF](https://haribojun.github.io/assets/pdfs/From_Promotions_to_Consumer_Preference_and_Choice.pdf)
 - **The Impact of Package Design Changes on Sales**
   - KAIST, BrainKorea Workshop, 23.02.15
+  - [PDF](https://haribojun.github.io/assets/pdfs/The_Impact_of_Package_Design_Changes_on_Sales.pdf)
 - **Analysis of Product Package Design Elements through Machine Learning**
   - KAIST AI Social Science Research Boot Camp, 21.11.12
 - **Acceptance attitude of artificial intelligence technology using text mining technique: Focusing on self-driving cars**
@@ -45,6 +47,7 @@ It will soon be updated!
 - *2022.04.~2022.12.* Global Technology Strategy Analysis Platform Research and Development (PI: Hoon Sohn, KAIST) 
   - Role: Big Data Analysis
   - Tools: Ubuntu, Server, Python
+  - Confidential Project
 
 - *2021.05.~2021.12.* Research on the Change of personal behavior and business strategy in the Post-AI era (KAIST) 
   - Role: Research Assisted
