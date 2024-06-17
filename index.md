@@ -61,9 +61,9 @@ I'm a third year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Te
 
 ## Programming Skills
 
-Proficient with: **Python, R, Tensorflow, Keras, Pytorch**
+Proficient with: **Python, R, Tensorflow, Keras, Pytorch, Stata**
 
-Familiar with: **C, Stata, SQL, SAS**
+Familiar with: **C, SQL, SAS**
 
 ## Languages
 
