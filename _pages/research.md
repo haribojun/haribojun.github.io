@@ -12,7 +12,7 @@ header:
 
 It will soon be updated!
 
-- Kim, Y., Kim, Y., & Kim, H. J. (2024). ["Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions"](https://doi.org/10.1016/j.appet.2024.107555). Appetite, 107555.
+- Youngjun Kim, Youngju Kim, Hye-Jin Kim (2024). ["Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions"](https://doi.org/10.1016/j.appet.2024.107555). Appetite, 107555.
 - Youngjun Kim, Hye-jin Kim (2022). ["Analysis of product package design elements through machine learning."](https://koasas.kaist.ac.kr/handle/10203/308150), Master's Thesis
 - Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee (2019). [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/)  The Journal of Bigdata, 4(2), 1-12.
 
