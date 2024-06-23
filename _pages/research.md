@@ -12,6 +12,7 @@ header:
 
 It will soon be updated!
 
+- Kim, Y., Kim, Y., & Kim, H. J. (2024). ["Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions"](https://doi.org/10.1016/j.appet.2024.107555). Appetite, 107555.
 - Youngjun Kim, Hye-jin Kim (2022). ["Analysis of product package design elements through machine learning."](https://koasas.kaist.ac.kr/handle/10203/308150), Master's Thesis
 - Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee (2019). [“Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning”](https://haribojun.github.io/exp1/)  The Journal of Bigdata, 4(2), 1-12.
 
@@ -38,7 +39,7 @@ It will soon be updated!
 ## Projects
 
 - *2023.08.~* ScalarData R&D MOU with KAIST Q-Marketing Lab for EV Charging
-  - Role: Data Analysis & Conducting Field Experiments
+  - Role: Data Analysis & Field Experiments
   - Successfully established a Memorandum of Understanding(MOU)
   - [Article](https://www.hankyung.com/economy/article/202308259512O)
 
