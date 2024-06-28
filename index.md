@@ -17,7 +17,10 @@ I'm a third year Ph.D. Candidate in Quant Marketing Lab at KAIST Business and Te
 ---
 
 
-*My Dream is to **make as many people happy as possible**. I worked tirelessly to find a way to achieve that dream. When I was in middle school, I majored in violin in Austria, and when I was in high school, I lived in Australia and tried to find a job to achieve my dream without giving up even when I came back to Korea. Then I read a book called "Banker to the Poor". This book was about Muhammad Yunus, the founder of the Grameen Bank. Usually, banks want to lend to people with good credit, but he breaks this framework and gives loans to the poor, but the banks have found a way to avoid losing money, and they've actually come out as microfinance banks today. I thought it was one of innovations, and I was convinced that innovation could make many people happy. Now I want to achieve this innovation through data-related research.*
+My dream is to bring happiness to as many people as possible. I have pursued this goal throughout my life, from majoring in violin in Austria during middle school to seeking opportunities in Australia during high school. Upon returning to Korea, I continued my efforts.
+A turning point came when I read “Banker to the Poor,” a book about Muhammad Yunus, the founder of the Grameen Bank. Yunus pioneered microfinance, providing loans to the poor and proving that financial services could empower the impoverished without incurring losses. This inspired me to believe that innovation could enhance happiness on a large scale.
+Today, I aim to achieve this through data-related research, convinced that data-driven insights can drive transformative innovations to improve lives globally.
+
 
 ---
 ## Education
