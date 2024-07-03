@@ -26,6 +26,8 @@ header:
 
 ---
 ## **Activities**
+- **Korea Summer Workshop on Causal Inference** (The Korea Society of Management Information Systems) 24.06.13~24.06.28
+  - A workshop designed to expand the base of data science for causal inference and decision making.
 - **Big Data Analysis Boot Camp** (KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13
   - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS.
 - **Lab leader of Q-Marketing Lab** 23.01~24.12
