@@ -32,7 +32,7 @@ header:
   - A workshop designed to expand the base of data science for causal inference and decision making.
 - **Big Data Analysis Boot Camp** (KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13
   - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS.
-- **Lab leader of Q-Marketing Lab** 23.01~24.12
+- **Lab leader of Q-Marketing Lab** 23.01~24.12 (*2 years*)
 - **Student Council of School of Business Technology Management** 21.03~21.12
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
