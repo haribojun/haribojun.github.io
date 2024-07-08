@@ -32,7 +32,7 @@ header:
   - A workshop designed to expand the base of data science for causal inference and decision making.
 - **Big Data Analysis Boot Camp** (KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13
   - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS.
-- **Lab leader of Q-Marketing Lab** 23.01~24.12 (*2 years*)
+- **Lab leader of Q-Marketing Lab** 23.01~24.12 (*2years*)
 - **Student Council of School of Business Technology Management** 21.03~21.12
 - **AI Innovation Square** (AI Business Model Course) 19.07~19.08
   - AI Architecture, AI Embedded System, Image/Video AI, NLP/Voice AI
@@ -47,9 +47,9 @@ header:
 - **LINCUK** Head 1year 17.03~18.06
   - Start-up Promotion Suporting Group
   - Conducted 'Start-up Talk Concert2017' in Conference Room of CUK
-- **Oracle BigData Specialist Training Process- I** (200hrs) 17.07.15~17.08.26
+- **Oracle BigData Specialist Training Process- I** (*200hours*) 17.07.15~17.08.26
   - Java Programing & DB Course
-- **Fintech Academy** (Korea Internet & Security Agency [KISA], 28hrs) 16.11.08~16.11.11
+- **Fintech Academy** (Korea Internet & Security Agency [KISA], *28hours*) 16.11.08~16.11.11
   - Block-Chain and Financial Technology
 - **Korean Augmentation To the United States Army** (KATUSA, 2nd Infantry Division) 15.01~16.10
   - Full-time discharged (Orderly Room & Training Room)
