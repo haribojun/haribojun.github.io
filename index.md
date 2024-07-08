@@ -54,21 +54,15 @@ Today, I aim to achieve this through data-related research, convinced that data-
     - Majored in the Violin
   - IBMS Perchtoldsdorf (Interssens- und berufsorientierte Mittelschule) *(2008)- Wien, Austria*  
     - 4.Klasse (Regular Class)
-    
-
-  
 <br/>
-<br/>
-
+<br/>  
 
 
 ## Military Service
 
-- **Korean Augmentation To the United States Army** (KATUSA, 2nd Infantry Division):
-  *(Jan.2015 - Oct.2016)*
+- **Korea Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
+  *(Jan.2015 - Oct.2016)*  
     - Full-time discharged (Orderly Room & Training Room)
-
-
 
 ## Programming Skills
 
