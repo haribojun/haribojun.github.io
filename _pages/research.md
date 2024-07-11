@@ -12,8 +12,9 @@ header:
 
 It will soon be updated!
 
+- Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park. "From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster", Submitted
 - Youngjun Kim, Youngju Kim, Hye-Jin Kim (2024). "Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions". Appetite, 107555. [Link](https://doi.org/10.1016/j.appet.2024.107555) [FreeLink(~24.08.14)](https://authors.elsevier.com/c/1jJmJiVKTl9hz)
-- Youngjun Kim, Hye-jin Kim (2022). "Analysis of product package design elements through machine learning.", Master's Thesis [Link](https://koasas.kaist.ac.kr/handle/10203/308150)
+- Youngjun Kim, Hye-Jin Kim (2022). "Analysis of product package design elements through machine learning.", Master's Thesis [Link](https://koasas.kaist.ac.kr/handle/10203/308150)
 - Youngjun Kim, Yeojeong Kim, Insun Lee, Hong Joo Lee (2019). “Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning” The Journal of Bigdata, 4(2), 1-12. [Link](https://haribojun.github.io/exp1/)
 
 
