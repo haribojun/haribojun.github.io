@@ -87,4 +87,4 @@ Update: 2024/02/18 -->
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[jun.k93@kaist.ac.kr](mailto:jun.k93@kaist.ac.kr)_**
+For any inquires, you can reach me via email: **_[jun.k93@me.com](mailto:jun.k93@me.com)_**
