@@ -28,6 +28,7 @@ header:
 ## **Activities**
 - **KAIST Full-Stack LLM Project Course with Solar** (KAIST x Upstage, sponsored by ORACLE) 24.07.04~24.07.06
   - This program provided an in-depth look at the theoretical background and practical application of Large Language Models (LLM). Additionally, it provided insight into the development potential and utilization of LLM through the latest research trends and case studies.
+  - Financial Insight Extract Bot: Using LLM to Predict Earnings Increases or Decreases
 - **Korea Summer Workshop on Causal Inference** (The Korea Society of Management Information Systems) 24.06.13~24.06.28
   - A workshop designed to expand the base of data science for causal inference and decision making.
 - **Big Data Analysis Boot Camp** (KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13
