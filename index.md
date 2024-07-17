@@ -60,9 +60,9 @@ Today, I aim to achieve this through data-related research, convinced that data-
 
 ## Military Service
 
-- [**Korean Augmentation To the United States Army**](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp) - *(KATUSA, 2nd Infantry Division)*:  
+- **Korean Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
   *(Jan.2015 - Oct.2016)*  
-    - Full-time discharged (Orderly Room & Training Room)
+    - Full-time discharged (Orderly Room & Training Room) [LINK]](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
 
 ## Programming Skills
 
