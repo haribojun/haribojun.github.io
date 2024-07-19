@@ -15,49 +15,24 @@ intro:
    by Albert Einstein'
 
 feature_row:
-  - image_path: assets/images/exp_0.png
+  - image_path: assets/images/MOU.jpg
     alt: "placeholder image 1"
-    title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp0"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_1.png
+    title: "ScalarData R&D MOU with KAIST Q-Marketing Lab for EV Charging"
+    excerpt: "2023.08.~ Present <br/>Role: Data Analysis & Field Experiments <br/> - Successfully established a Memorandum of Understanding(MOU) <a href='https://www.hankyung.com/economy/article/202308259512O'>Article</a>"
+  - image_path: /assets/images/gsi.jpg
     alt: "placeholder image 2"
-    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp1"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Global Technology Strategy Analysis Platform Research and Development "
+    excerpt: "(PI: Hoon Sohn, KAIST) <br/>2022.04.~2022.12.<br/>Role: Big Data Analysis Tools: Ubuntu, Server, Python <br/>-Confidential Project"
   - image_path: /assets/images/exp_han1.png
-    title: "Hanium"
-    excerpt: "Projects with ICT industry experts"
-    url: "https://haribojun.github.io/exp2"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Research on the Change of personal behavior and business strategy in the Post-AI era"
+    excerpt: "2021.05.~2021.12. <br/>Role: Research Assisted <br/>Tools: Python <br/>Objective: Analysis and prediction of the Metaverse, which is receiving attention as a new paradigm in the Post-AI era. & Strategies for AI startups in the Post-AI era that are threatened by the lack of proprietary data assets, which are the foundation of survival."
 
 
 feature_row1:
-  - image_path: assets/images/exp_0.png
+  - image_path: assets/images/audio.jpg
     alt: "placeholder image 1"
-    title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp0"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_1.png
-    alt: "placeholder image 2"
-    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp1"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exp_han1.png
-    title: "Hanium"
-    excerpt: "Projects with ICT industry experts"
-    url: "https://haribojun.github.io/exp2"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Brand Voiceprint"
+    excerpt: "2020.03.~2020.12. <br/>Role: Research Assisted <br/>Tools: Python, Google API <br/>Objective: Can we find the right voice for a brand?"
 
 
 feature_row2:
@@ -167,8 +142,6 @@ feature_row4:
 {% include feature_row %}
 
 {% include feature_row id="feature_row1" %}
-
----
 
 {% include feature_row id="feature_row2" %}
 
