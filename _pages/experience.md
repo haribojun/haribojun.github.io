@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "KAIST Full-Stack LLM Project Course with Solar"
     excerpt: "(KAIST x Upstage, sponsored by ORACLE)<br/> 24.07.04~24.07.06 <br/>
-    Final presentation (Top 7 out of 21 teams, 90 participants) <br/>
+    Top 7 teams for the final presentation among 21 teams, 90 people <br/>
     - This program provided an in-depth look at the theoretical background and practical application of Large Language Models (LLM). Additionally, it provided insight into the development potential and utilization of LLM through the latest research trends and case studies.<br/>
     - Financial Insight Extract Bot: Using LLM to Predict Earnings Increases or Decreases" 
   - image_path: /assets/images/KSWCI2024.jpg
