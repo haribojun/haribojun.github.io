@@ -36,6 +36,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Start-Up Idea Contest"
     excerpt: "(Catholic University of Korea) <br/> Excellence Award <br/> 2018.06.14"
+    url: "https://haribojun.github.io/exp5"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
   - image_path: /assets/images/core.jpg
     alt: "placeholder image 2"
     title: "An Essay on Participating in the Competitiveness of the University’s Humanities"
