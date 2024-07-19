@@ -43,7 +43,7 @@ It will soon be updated!
 
 
 
----
+<!-- ---
 
 
 ## Projects
@@ -66,7 +66,7 @@ It will soon be updated!
 - *2020.03.~2020.12.* Brand Voiceprint (KAIST) 
   - Role: Research Assisted
   - Tools: Python, Google API
-  - Objective: Can we find the right voice for a brand?
+  - Objective: Can we find the right voice for a brand? -->
 
 ---
 
