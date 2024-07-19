@@ -81,18 +81,6 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row4:
-  - image_path: assets/images/exp_8.png
-    alt: "placeholder image 1"
-    title: "2018 CES Las Vegas"
-    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
-  - image_path: /assets/images/exp_9.png
-    alt: "placeholder image 2"
-    title: "2018 Freshman Orientation Special Lecture by Student."
-    excerpt: "Presented about the know-how to maximize the benefits from the university."
-  - image_path: /assets/images/exp_10.png
-    title: "2017 Startup Talk Concert"
-    excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
 
 
 
@@ -136,7 +124,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" %}
 
-{% include feature_row id="feature_row4" %}
 
 
 <!--  {% include feature_row id="feature_row2" type="left" %}
