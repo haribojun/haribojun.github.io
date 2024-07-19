@@ -48,11 +48,11 @@ feature_row1:
     excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
 
 feature_row2:
-  - image_path: assets/images/global_creative.jpg
+  - image_path: assets/images/exp_ent2.jpg
     alt: "placeholder image 1"
     title: "Global Creative Talent Program"
     excerpt: "18.01.22~18.02.01 <br/> - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China."
-  - image_path: /assets/images/ETC.jpg
+  - image_path: /assets/images/exp_ent.jpg
     alt: "placeholder image 2"
     title: "Entrepreneurship Training Course"
     excerpt: "17.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
@@ -61,17 +61,17 @@ feature_row2:
     excerpt: "Head 1year 17.03~18.06 <br/> Start-up Promotion Supporting Group <br/> -We conduct an interview with the CEO of the startup and provide know-how and promotion of the startup to students through multiple SNS channels. <a href='https://www.facebook.com/LINCUK0/'>LINK</a>"
 
 feature_row3:
-  - image_path: assets/images/global_creative.jpg
+  - image_path: assets/images/oracle.jpg
     alt: "placeholder image 1"
-    title: "EGlobal Creative Talent Program"
-    excerpt: "18.01.22~18.02.01 <br/> - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China."
-  - image_path: /assets/images/ETC.jpg
+    title: "Oracle BigData Specialist Training Process- I"
+    excerpt: "200 hours 17.07.15~17.08.26 <br/> - Java & DB Course at the Oracle workforce Development Class"
+  - image_path: /assets/images/fintech.jpg
     alt: "placeholder image 2"
-    title: "Entrepreneurship Training Course"
-    excerpt: "17.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
-  - image_path: /assets/images/exp_11_edited.png
-    title: "LINCUK"
-    excerpt: " Start-up Promotion Suporting Group Head 1year 17.03~18.06 <br/>"
+    title: "Fintech Academy"
+    excerpt: "(Korea Internet & Security Agency [KISA], 28hours) 16.11.08~16.11.11 <br/> - Block-Chain and Financial Technology"
+  - image_path: /assets/images/katusa_yj.jpg
+    title: "Korean Augmentation To the United States Army"
+    excerpt: "(KATUSA, 2nd Infantry Division) 15.01~16.10 <br/> - Full-time discharged (Orderly Room & Training Room)"
 
 
 
