@@ -68,7 +68,7 @@ feature_row3:
   - image_path: /assets/images/fintech.jpg
     alt: "placeholder image 2"
     title: "Fintech Academy"
-    excerpt: "(Korea Internet & Security Agency [KISA], 28hours) 16.11.08~16.11.11 <br/> - Block-Chain and Financial Technology"
+    excerpt: "(Korea Internet & Security Agency [KISA]) <br/>28hours 16.11.08~16.11.11 <br/> - Block-Chain and Financial Technology"
   - image_path: /assets/images/katusa_yj.jpg
     title: "Korean Augmentation To the United States Army"
     excerpt: "(KATUSA, 2nd Infantry Division) 15.01~16.10 <br/> - Full-time discharged (Orderly Room & Training Room)"
