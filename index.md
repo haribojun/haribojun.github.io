@@ -63,11 +63,23 @@ Today, I aim to achieve this through data-related research, convinced that data-
 - **Korean Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
   *(Jan.2015 - Oct.2016)*  
     - Full-time discharged (Orderly Room & Training Room) [LINK](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
-
-  
 <p align="right">
   <img src="/assets/images/katusa_yj.jpg" alt="example image" style="width: 100px; height: auto;">
 </p>
+
+ <div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+
+- **Korean Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
+  *(Jan.2015 - Oct.2016)*  
+    - Full-time discharged (Orderly Room & Training Room) [LINK](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
+
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="/assets/images/katusa_yj.jpg" alt="example image" style="width: 100px; height: auto;">
+  </div>
+</div>
+ 
 
 
 ## Programming Skills
