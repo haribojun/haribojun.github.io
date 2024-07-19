@@ -73,6 +73,19 @@ feature_row3:
     title: "Korean Augmentation To the United States Army"
     excerpt: "(KATUSA, 2nd Infantry Division) 15.01~16.10 <br/> - Full-time discharged (Orderly Room & Training Room)"
 
+feature_row4:
+  - image_path: assets/images/MSHS.jpg
+    alt: "placeholder image 1"
+    title: "Mansfield State High School"
+    excerpt: "(2009 - 2011) - Brisbane, Australia <br/>Year 9 - Year 11 (Regular Class)"
+  - image_path: /assets/images/violin.jpg
+    alt: "placeholder image 2"
+    title: "Prayner Konservatorium"
+    excerpt: "(2007 - 2008) - Wien, Austria <br/>Majored in the Violin"
+  - image_path: /assets/images/Aus.JPG
+    title: "IBMS Perchtoldsdorf (Interssens- und berufsorientierte Mittelschule) "
+    excerpt: "(2008)- Wien, Austria <br/>4.Klasse (Regular Class)"
+
 
 
 # feature_row2:
@@ -116,6 +129,8 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
 
 <!--  {% include feature_row id="feature_row2" type="left" %}
 
