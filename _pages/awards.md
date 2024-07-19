@@ -15,84 +15,54 @@ intro:
    by Albert Einstein'
 
 feature_row:
-  - image_path: assets/images/exp_0.png
+  - image_path: assets/images/proposal.jpg
     alt: "placeholder image 1"
-    title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp0"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_1.png
+    title: "Best Proposal Award"
+    excerpt: "(Korean Marketing Association) <br/> Grand Prize 2024.02.20" 
+  - image_path: /assets/images/CUK_grad.JPG
     alt: "placeholder image 2"
-    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp1"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exp_han1.png
-    title: "Hanium"
-    excerpt: "Projects with ICT industry experts"
-    url: "https://haribojun.github.io/exp2"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Honor Student Award"
+    excerpt: " (Catholic University of Korea) <br/> 2020.02.13 <br/> 2019 Student Excellent Scholarship <br/> 
+    2017 Student Excellent Scholarship <br/> 2014 Student Excellent Scholarship"
+  - image_path: /assets/images/exp_13.png
+    title: "National Security New Technology Contest"
+    excerpt: "(KAIST AI & Big Data Social Science Research Group, AI-SSRG) <br/> 23.02.06~23.02.13 <br/>
+    - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS."
 
 
 feature_row2:
-  - image_path: assets/images/exp_2.png
+  - image_path: assets/images/exp_12.png
     alt: "placeholder image 1"
-    title: "2019 Weather Big Data Contest"
-    excerpt: "Role: Data Analysis"
-    url: "https://haribojun.github.io/exp3"
-    btn_label: "Read More"
-    btn_class: "btn--primary"  
-  - image_path: /assets/images/exp_3.png
+    title: "Start-Up Idea Contest"
+    excerpt: "(Catholic University of Korea) <br/> Excellence Award <br/> 2018.06.14"
+  - image_path: /assets/images/core.jpg
     alt: "placeholder image 2"
-    title: "2019 Big Contest"
-    excerpt: "Role: Team leader"
-    url: "https://haribojun.github.io/exp3a"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exp_4.png
-    title: "[National Security New Technology Contest] Fake News Discrimination Technology"
-    excerpt: "Role: Team Leader <br/> Award"
-    url: "https://haribojun.github.io/exp4"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "An Essay on Participating in the Competitiveness of the University’s Humanities"
+    excerpt: "Excellence Award in South Korea & The Best Prize in Catholic University of Korea <br/> 2018.02.26"
+  - image_path: /assets/images/armyaward.JPG
+    title: "KATUSA"
+    excerpt: "- Award Certificate of Exemplary KATUSA (Commander of Eighth United States Army Republic of Korea Army Support group) <br/> 2016.10.11<br/> 
+    Award Certificate of Outstanding KATUSA (Area III RSG Commander) <br/> 2015.06.29"
 
-feature_row3:
-  - image_path: assets/images/exp_5.png
-    alt: "placeholder image 1"
-    title: "[Startup Idea Contest] Rural Resettlement Consulting Platform Using Public Data"
-    excerpt: "Role: Team Leader <br/> Excellence Award "
-    url: "https://haribojun.github.io/exp5"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/exp_6.png
-    alt: "placeholder image 2"
-    title: "[Understanding and Utilizing Big Data] Stock Lecture Analysis"
-    excerpt: "Individual Project"
-    url: "https://haribojun.github.io/exp6"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exp_7.png
-    title: "[Understanding and Utilizing Big Data] Marketing for a Stew Restaurant Using Data"
-    excerpt: "Individual Project"
-    url: "https://haribojun.github.io/exp7"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
-feature_row4:
-  - image_path: assets/images/exp_8.png
-    alt: "placeholder image 1"
-    title: "2018 CES Las Vegas"
-    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
-  - image_path: /assets/images/exp_9.png
-    alt: "placeholder image 2"
-    title: "2018 Freshman Orientation Special Lecture by Student."
-    excerpt: "Presented about the know-how to maximize the benefits from the university."
-  - image_path: /assets/images/exp_10.png
-    title: "2017 Startup Talk Concert"
-    excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
+# feature_row3:
+#   - image_path: assets/images/exp_12.png
+#     alt: "placeholder image 1"
+#     title: "Student Excellent Scholarship"
+#     excerpt: "(Catholic University of Korea) <br/> Excellence Award <br/> 2018.06.14"
+
+# feature_row4:
+#   - image_path: assets/images/exp_8.png
+#     alt: "placeholder image 1"
+#     title: "2018 CES Las Vegas"
+#     excerpt: "Big Data Knowledge Fusion Overseas Programs" 
+#   - image_path: /assets/images/exp_9.png
+#     alt: "placeholder image 2"
+#     title: "2018 Freshman Orientation Special Lecture by Student."
+#     excerpt: "Presented about the know-how to maximize the benefits from the university."
+#   - image_path: /assets/images/exp_10.png
+#     title: "2017 Startup Talk Concert"
+#     excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
 
 
 
@@ -134,9 +104,9 @@ feature_row4:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" %}
 
-{% include feature_row id="feature_row4" %}
+
+
 
 
 <!--  {% include feature_row id="feature_row2" type="left" %}
