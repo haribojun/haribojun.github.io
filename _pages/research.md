@@ -13,7 +13,6 @@ header:
 It will soon be updated!
 
 - From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster
-
     - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park. Submitted </sup>
     - <sup> Keywords: Movie poster, Generative Artificial Intelligence, Film Industry, Expectancy Violations Theory </sup>
 
