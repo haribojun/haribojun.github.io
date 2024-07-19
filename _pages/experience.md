@@ -22,7 +22,7 @@ feature_row:
     Top 7 teams for the final presentation among 21 teams(90 people) <br/>
     - This program provided an in-depth look at the theoretical background and practical application of Large Language Models (LLM). Additionally, it provided insight into the development potential and utilization of LLM through the latest research trends and case studies.<br/>
     - <strong>Financial Insight Extract Bot</strong>: Using LLM to Predict Earnings Increases or Decreases" 
-  - image_path: /assets/images/KSWCI2024.jpg
+  - image_path: /assets/images/KSWCI.jpg
     alt: "placeholder image 2"
     title: "Korea Summer Workshop on Causal Inference"
     excerpt: "(The Korea Society of Management Information Systems)<br/> 24.06.13~24.06.28 <br/>
