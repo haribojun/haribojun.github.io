@@ -42,7 +42,7 @@ feature_row2:
   - image_path: /assets/images/armyaward.JPG
     title: "KATUSA"
     excerpt: "- Award Certificate of Exemplary KATUSA (Commander of Eighth United States Army Republic of Korea Army Support group) <br/> 2016.10.11<br/> 
-    Award Certificate of Outstanding KATUSA (Area III RSG Commander) <br/> 2015.06.29"
+    - Award Certificate of Outstanding KATUSA (Area III RSG Commander) <br/> 2015.06.29"
 
 
 # feature_row3:
