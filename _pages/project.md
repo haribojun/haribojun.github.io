@@ -32,7 +32,7 @@ feature_row1:
   - image_path: assets/images/audio.jpg
     alt: "placeholder image 1"
     title: "Brand Voiceprint"
-    excerpt: "2020.03.~2020.12. <br/>Role: Research Assisted <br/>Tools: Python, Google API <br/>Objective: Can we find the right voice for a brand?"
+    excerpt: "2020.03.~2020.12. <br/>Role: Research Assisted <br/>Tools: Python, Google API <br/>Objective: Can we find the right voice for a brand? <br/>Extracted the features from advertising audios such as man/woman, how many people are in the audio."
 
 
 feature_row2:
