@@ -50,15 +50,28 @@ feature_row1:
 feature_row2:
   - image_path: assets/images/global_creative.jpg
     alt: "placeholder image 1"
-    title: "7.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
-    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
-  - image_path: /assets/images/exp_9.png
+    title: "EGlobal Creative Talent Program"
+    excerpt: "18.01.22~18.02.01 <br/> - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China."
+  - image_path: /assets/images/ETC.jpg
     alt: "placeholder image 2"
-    title: "2018 Freshman Orientation Special Lecture by Student."
-    excerpt: "Presented about the know-how to maximize the benefits from the university."
-  - image_path: /assets/images/exp_10.png
-    title: "2017 Startup Talk Concert"
-    excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
+    title: "Entrepreneurship Training Course"
+    excerpt: "17.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
+  - image_path: /assets/images/exp_11_edited.png
+    title: "LINCUK"
+    excerpt: "Head 1year 17.03~18.06 <br/> Start-up Promotion Suporting Group"
+
+feature_row3:
+  - image_path: assets/images/global_creative.jpg
+    alt: "placeholder image 1"
+    title: "EGlobal Creative Talent Program"
+    excerpt: "18.01.22~18.02.01 <br/> - Education on overseas startups in general, visiting companies located in Shenzhen and Hong Kong, China."
+  - image_path: /assets/images/ETC.jpg
+    alt: "placeholder image 2"
+    title: "Entrepreneurship Training Course"
+    excerpt: "17.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
+  - image_path: /assets/images/exp_11_edited.png
+    title: "LINCUK"
+    excerpt: "Head 1year 17.03~18.06 <br/> Start-up Promotion Suporting Group"
 
 
 
@@ -100,6 +113,7 @@ feature_row2:
 
 {% include feature_row id="feature_row1" %}
 
+{% include feature_row id="feature_row2" %}
 
 <!--  {% include feature_row id="feature_row2" type="left" %}
 
