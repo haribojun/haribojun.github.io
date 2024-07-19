@@ -12,8 +12,8 @@ main:
   # - title: "Course"
   #   url: /Course/
 
-  - title: "Activities"
-    url: /activities/    
+  # - title: "Activities"
+  #   url: /activities/    
 
   - title: "Research"
     url: /research/
