@@ -24,14 +24,14 @@ feature_row:
     title: "Global Technology Strategy Analysis Platform Research and Development "
     excerpt: "(PI: Hoon Sohn, KAIST) <br/>2022.04.~2022.12.<br/>Role: Big Data Analysis Tools: Ubuntu, Server, Python <br/>- Confidential Project"
   - image_path: /assets/images/metaverse.jpg
-    title: "Research on the Change of personal behavior and business strategy in the Post-AI era"
+    title: "Research on the Change of personal behavior and business strategy in the Post-AI era (KAIST)"
     excerpt: "2021.05.~2021.12. <br/>Role: Research Assisted <br/>Tools: Python <br/>Objective: Analysis and prediction of the Metaverse, which is receiving attention as a new paradigm in the Post-AI era. & Strategies for AI startups in the Post-AI era that are threatened by the lack of proprietary data assets, which are the foundation of survival."
 
 
 feature_row1:
   - image_path: assets/images/audio.jpg
     alt: "placeholder image 1"
-    title: "Brand Voiceprint"
+    title: "Brand Voiceprint (KAIST)"
     excerpt: "2020.03.~2020.12. <br/>Role: Research Assisted <br/>Tools: Python, Google API <br/>Objective: Can we find the right voice for a brand? <br/>Extracted the features from advertising audios such as man/woman, how many people are in the audio."
 
 
