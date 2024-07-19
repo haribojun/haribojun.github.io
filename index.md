@@ -60,22 +60,25 @@ Today, I aim to achieve this through data-related research, convinced that data-
 
 ## Military Service
 
+- **Korean Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
+  *(Jan.2015 - Oct.2016)*  
+    - Full-time discharged (Orderly Room & Training Room) [LINK](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <ul>
-      <li>
-        <strong>Korean Augmentation To the United States Army</strong> - <em>(KATUSA, 2nd Infantry Division)</em>:  
-        <br/>
-        <span style="padding-left: 40px;"> <em>(Jan.2015 - Oct.2016)</em>  
-        <br/>
-          <span style="padding-left: 20px;">- Full-time discharged (Orderly Room & Training Room) <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp">LINK</a></span>
-      </li>
-    </ul>
+    <p>
+      <strong>Korean Augmentation To the United States Army</strong> - <em>(KATUSA, 2nd Infantry Division)</em>:  
+      <br/> 
+      <span style="padding-left: 40px;"> <em>(Jan.2015 - Oct.2016)</em>  
+      <br/> 
+      <span style="padding-left: 50px;">- Full-time discharged (Orderly Room & Training Room) <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp">LINK</a></span>
+    </p>
   </div>
   <div style="margin-left: 20px;">
     <img src="/assets/images/katusa_yj.jpg" alt="example image" style="width: 100px; height: auto;">
   </div>
 </div>
+
 
 
  

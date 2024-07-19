@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/0.png"
   bio              : "Hello World!!"
   location         : "South Korea"
-  email            : "jun.k93@kaist.ac.kr"
+  email            : "jun.k93@me.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
