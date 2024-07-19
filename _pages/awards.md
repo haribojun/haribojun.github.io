@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/proposal.jpg
     alt: "placeholder image 1"
     title: "Best Proposal Award"
-    excerpt: "(Korean Marketing Association) <br/> Grand Prize 2024.02.20" 
+    excerpt: "(Korean Marketing Association) <br/> Grand Prize <br/> 2024.02.20" 
   - image_path: /assets/images/CUK_grad.JPG
     alt: "placeholder image 2"
     title: "Honor Student Award"
