@@ -15,7 +15,7 @@ intro:
    by Albert Einstein'
 
 feature_row:
-  - image_path: assets/images/LLMProject.png
+  - image_path: assets/images/LLMProject.jpg
     alt: "placeholder image 1"
     title: "KAIST Full-Stack LLM Project Course with Solar"
     excerpt: "(KAIST x Upstage, sponsored by ORACLE) 24.07.04~24.07.06 <br/>
