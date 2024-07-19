@@ -31,6 +31,7 @@ Today, I aim to achieve this through data-related research, convinced that data-
     - Major: Business and Technology Management (Marketing)
     - Advisor: Prof. Hye-jin Kim
     - [Q-Marketing Lab (Quantitative Marketing) ](https://sites.google.com/view/q-marketinglab/home?authuser=0)
+        - Lab Leader (Jan.2023 - Dec.2024, 2years)
     - Main Courses: Marketing for Hi-tech Company, Advanced Statistics for Management, Advanced Quantitative Analysis, Digital Innovation and IT Management, Theory of Consumer Behavior and Decision Making, Applied Econometrics, Business Analytics for Innovation Management, Accounting Principles, Technology Management and Corporate Finance, Innovation Management and Strategy, Research Methodologies II
     - All classes at KAIST are conducted in English.
 <br/>
