@@ -78,7 +78,7 @@ feature_row4:
     alt: "placeholder image 1"
     title: "Mansfield State High School"
     excerpt: "(2009 - 2011) - Brisbane, Australia <br/>Year 9 - Year 11 (Regular Class)"
-  - image_path: /assets/images/violin.jpg
+  - image_path: /assets/images/violin.JPG
     alt: "placeholder image 2"
     title: "Prayner Konservatorium"
     excerpt: "(2007 - 2008) - Wien, Austria <br/>Majored in the Violin"
