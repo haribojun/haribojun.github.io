@@ -26,7 +26,7 @@ feature_row:
     2017 Student Excellent Scholarship <br/> 2014 Student Excellent Scholarship"
   - image_path: /assets/images/exp_13.png
     title: "[National Security New Technology Contest] Fake News Discrimination Technology"
-    excerpt: "Role: Team Leader <br/> Award"
+    excerpt: "Korea Intelligent Information Systems Society & Korea Society of IT Services <br/> Award <br/> 2018.11.30"
     url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
     btn_class: "btn--primary"
