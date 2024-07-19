@@ -38,7 +38,7 @@ feature_row1:
   - image_path: assets/images/exp_8.png
     alt: "placeholder image 1"
     title: "2018 CES Las Vegas"
-    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
+    excerpt: "(LasVegas) 18.01.08~18.01.14 <br/>Big Data Knowledge Fusion Overseas Programs" 
   - image_path: /assets/images/exp_9.png
     alt: "placeholder image 2"
     title: "2018 Freshman Orientation Special Lecture by Student."
