@@ -58,7 +58,7 @@ feature_row2:
     excerpt: "17.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
   - image_path: /assets/images/exp_11_edited.png
     title: "LINCUK"
-    excerpt: "Head 1year 17.03~18.06 <br/> Start-up Promotion Suporting Group <br/> -We conduct an interview with the CEO of the startup and provide know-how and promotion of the startup to students. <a href='https://www.facebook.com/LINCUK0/'>LINK</a>"
+    excerpt: "Head 1year 17.03~18.06 <br/> Start-up Promotion Suporting Group <br/> -We conduct an interview with the CEO of the startup and provide know-how and promotion of the startup to students through multiple SNS channels. <a href='https://www.facebook.com/LINCUK0/'>LINK</a>"
 
 feature_row3:
   - image_path: assets/images/global_creative.jpg
