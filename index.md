@@ -64,6 +64,21 @@ Today, I aim to achieve this through data-related research, convinced that data-
   *(Jan.2015 - Oct.2016)*  
     - Full-time discharged (Orderly Room & Training Room) [LINK](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
 
+    
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+
+- **Korean Augmentation To the United States Army** - *(KATUSA, 2nd Infantry Division)*:  
+  *(Jan.2015 - Oct.2016)*  
+    - Full-time discharged (Orderly Room & Training Room) [LINK](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp)
+
+  </div>
+  <div>
+    <img src=/assets/images/katusa_yj.jpg alt="example image" style="width: 100px; height: auto; margin-left: 20px;">
+  </div>
+</div>
+
 ## Programming Skills
 
 Proficient with: **Python, R, Tensorflow, Keras, Pytorch, Stata**
