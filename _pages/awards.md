@@ -25,10 +25,11 @@ feature_row:
     excerpt: " (Catholic University of Korea) <br/> 2020.02.13 <br/> 2019 Student Excellent Scholarship <br/> 
     2017 Student Excellent Scholarship <br/> 2014 Student Excellent Scholarship"
   - image_path: /assets/images/exp_13.png
-    title: "National Security New Technology Contest"
-    excerpt: "(KAIST AI & Big Data Social Science Research Group, AI-SSRG) <br/> 23.02.06~23.02.13 <br/>
-    - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS."
-
+    title: "[National Security New Technology Contest] Fake News Discrimination Technology"
+    excerpt: "Role: Team Leader <br/> Award"
+    url: "https://haribojun.github.io/exp4"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 feature_row2:
   - image_path: assets/images/exp_12.png
