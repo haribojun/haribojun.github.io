@@ -14,6 +14,25 @@ intro:
 <br/>
    by Albert Einstein'
 
+feature_row:
+  - image_path: assets/images/LLMProject.png
+    alt: "placeholder image 1"
+    title: "KAIST Full-Stack LLM Project Course with Solar"
+    excerpt: "(KAIST x Upstage, sponsored by ORACLE) 24.07.04~24.07.06 <br/>
+    - This program provided an in-depth look at the theoretical background and practical application of Large Language Models (LLM). Additionally, it provided insight into the development potential and utilization of LLM through the latest research trends and case studies.<br/>
+    - Financial Insight Extract Bot: Using LLM to Predict Earnings Increases or Decreases" 
+  - image_path: /assets/images/KSWCI2024.jpg
+    alt: "placeholder image 2"
+    title: "Korea Summer Workshop on Causal Inference"
+    excerpt: "(The Korea Society of Management Information Systems) 24.06.13~24.06.28 <br/>
+    - A workshop designed to expand the base of data science for causal inference and decision making."
+  - image_path: /assets/images/BDABC.png
+    title: "Big Data Analysis Boot Camp"
+    excerpt: "(KAIST AI & Big Data Social Science Research Group, AI-SSRG) 23.02.06~23.02.13 <br/>
+    - The course provided hands-on experience using SAS with CRSP, Computstat, and the UNIX-based operating system at WRDS."
+
+
+
 feature_row4:
   - image_path: assets/images/exp_8.png
     alt: "placeholder image 1"
@@ -62,6 +81,8 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row4" %}
 
