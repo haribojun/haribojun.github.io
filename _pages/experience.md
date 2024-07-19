@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "KAIST Full-Stack LLM Project Course with Solar"
     excerpt: "(KAIST x Upstage, sponsored by ORACLE)<br/> 24.07.04~24.07.06 <br/>
-    Top 7 teams for the final presentation among 21 teams, 90 people <br/>
+    Top 7 teams for the final presentation among 21 teams(90 people) <br/>
     - This program provided an in-depth look at the theoretical background and practical application of Large Language Models (LLM). Additionally, it provided insight into the development potential and utilization of LLM through the latest research trends and case studies.<br/>
     - <strong>Financial Insight Extract Bot</strong>: Using LLM to Predict Earnings Increases or Decreases" 
   - image_path: /assets/images/KSWCI2024.jpg
@@ -34,10 +34,23 @@ feature_row:
 
 
 
-feature_row4:
+feature_row1:
   - image_path: assets/images/exp_8.png
     alt: "placeholder image 1"
     title: "2018 CES Las Vegas"
+    excerpt: "Big Data Knowledge Fusion Overseas Programs" 
+  - image_path: /assets/images/exp_9.png
+    alt: "placeholder image 2"
+    title: "2018 Freshman Orientation Special Lecture by Student."
+    excerpt: "Presented about the know-how to maximize the benefits from the university."
+  - image_path: /assets/images/exp_10.png
+    title: "2017 Startup Talk Concert"
+    excerpt: "Role: Director <br/> At that time, the record for the highest number of participating students in a student-led event."
+
+feature_row2:
+  - image_path: assets/images/global_creative.jpg
+    alt: "placeholder image 1"
+    title: "7.11.03~17.11.04 <br/> - During the education period, I attended lectures related to entrepreneurship while participating in programs such as startup idea mentoring, business plan writing, and competitions."
     excerpt: "Big Data Knowledge Fusion Overseas Programs" 
   - image_path: /assets/images/exp_9.png
     alt: "placeholder image 2"
@@ -85,7 +98,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row1" %}
 
 
 <!--  {% include feature_row id="feature_row2" type="left" %}
