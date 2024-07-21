@@ -71,7 +71,8 @@ feature_row3:
     excerpt: "(Korea Internet & Security Agency [KISA]) <br/>28hours 16.11.08~16.11.11 <br/> - Block-Chain and Financial Technology"
   - image_path: /assets/images/katusa_yj.jpg
     title: "Korean Augmentation To the United States Army"
-    excerpt: "(KATUSA, 2nd Infantry Division) 15.01~16.10 <br/> - Full-time discharged (Orderly Room & Training Room)"
+    excerpt: "(KATUSA, 2nd Infantry Division) 15.01~16.10 <br/> - Full-time discharged (Orderly Room & Training Room) <br/> - Award Certificate of Exemplary KATUSA (Commander of Eighth United States Army Republic of Korea Army Support group) 2016.10.11 <br/> - Award Certificate of Outstanding KATUSA (Area III RSG Commander)
+2015.06.29"
 
 feature_row4:
   - image_path: assets/images/MSHS.jpg
