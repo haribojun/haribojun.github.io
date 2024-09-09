@@ -12,6 +12,9 @@ header:
 
 It will soon be updated!
 
+- Impact of Promotional Messages on EV Charging: Evidence from Field Experiments
+    - <sup> Youngjun Kim, Hye-Jin Kim. Work in Progress </sup>
+    - <sup> Keywords: Field Experiments, Promotion, Push Notifications, Demand Response, EV charging </sup>
 - From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster
     - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park. Journal of Business Research, R&R </sup>
     - <sup> Keywords: Movie poster, Generative Artificial Intelligence, Film Industry, Expectancy Violations Theory </sup>
