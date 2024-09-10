@@ -21,7 +21,7 @@ It will soon be updated!
 - Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions
     - <sup> Youngjun Kim, Youngju Kim, Hye-Jin Kim (2024). Appetite, 107555. [Link](https://doi.org/10.1016/j.appet.2024.107555) </sup>
     - <sup> Keywords: Front-of-package information on foods; Health claims; Bonus pack promotion messages </sup>
-- Analysis of product package design elements through machine learning.
+- Analysis of product package design elements through machine learning
     - <sup> Youngjun Kim, Hye-Jin Kim (2022). Master's Thesis [Link](https://koasas.kaist.ac.kr/handle/10203/308150) </sup>
     - <sup>	Keywords: Package Design, Package Element, Image Feature Extraction, Machine Learning, Typology  </sup>
 - Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning
