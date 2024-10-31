@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/nrf.jpg
     alt: "placeholder image 1"
     title: "Doctoral Student Research Support Project 2024"
-    excerpt: "National Research Foundation of Korea" 
+    excerpt: "Selected for Doctoral Student Research Support Project 2024 by National Research Foundation of Korea" 
   - image_path: assets/images/proposal.jpg
     alt: "placeholder image 2"
     title: "Best Proposal Award"
