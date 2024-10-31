@@ -15,23 +15,28 @@ intro:
    by Albert Einstein'
 
 feature_row:
-  - image_path: assets/images/proposal.jpg
+  - image_path: assets/images/nrf.jpg
     alt: "placeholder image 1"
+    title: "Doctoral Student Research Support Project"
+    excerpt: "National Research Foundation of Korea" 
+  - image_path: assets/images/proposal.jpg
+    alt: "placeholder image 2"
     title: "Best Proposal Award"
     excerpt: "(Korean Marketing Association) <br/> Grand Prize <br/> 2024.02.20" 
   - image_path: /assets/images/CUK_grad.JPG
-    alt: "placeholder image 2"
+    alt: "placeholder image 3"
     title: "Honor Student Award"
     excerpt: " (Catholic University of Korea) <br/> 2020.02.13 <br/> 2019 Student Excellent Scholarship <br/> 
     2017 Student Excellent Scholarship <br/> 2014 Student Excellent Scholarship"
+
+
+feature_row2:
   - image_path: /assets/images/exp_13.png
     title: "[National Security New Technology Contest] Fake News Discrimination Technology"
     excerpt: "Korea Intelligent Information Systems Society & Korea Society of IT Services <br/> Award <br/> 2018.11.30"
     url: "https://haribojun.github.io/exp4"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_row2:
   - image_path: assets/images/exp_12.png
     alt: "placeholder image 1"
     title: "Start-Up Idea Contest"
@@ -43,11 +48,12 @@ feature_row2:
     alt: "placeholder image 2"
     title: "An Essay on Participating in the Competitiveness of the University’s Humanities"
     excerpt: "Excellence Award in South Korea & The Best Prize in Catholic University of Korea <br/> 2018.02.26"
+
+feature_row3:
   - image_path: /assets/images/armyaward.JPG
     title: "KATUSA"
     excerpt: "- Award Certificate of Exemplary KATUSA (Commander of Eighth United States Army Republic of Korea Army Support group) <br/> 2016.10.11<br/> 
     - Award Certificate of Outstanding KATUSA (Area III RSG Commander) <br/> 2015.06.29"
-
 
 # feature_row3:
 #   - image_path: assets/images/exp_12.png
@@ -108,7 +114,7 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 
-
+{% include feature_row id="feature_row3" %}
 
 
 
