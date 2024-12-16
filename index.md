@@ -26,7 +26,7 @@ Today, I aim to achieve this through data-related research, convinced that data-
 ## Education
 
 - **Korea Advanced Institute of Science and Techology (KAIST)** - *Daejeon (South-Korea)*:  
-  *Ph.D. (Mar.2022 - Present)*  
+  *Ph.D. (Mar.2022 - Feb.2025)*  
   *M.S. (Mar.2020 - Feb.2022)*
     - Major: Business and Technology Management (Marketing)
     - Advisor: Prof. Hye-jin Kim
