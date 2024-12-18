@@ -10,7 +10,6 @@ header:
 ---
 ## Research
 
-It will soon be updated!
 
 - Impact of Promotional Messages on EV Charging: Evidence from Field Experiments
     - <sup> Youngjun Kim, Hye-Jin Kim. Work in Progress </sup>
