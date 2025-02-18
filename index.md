@@ -11,7 +11,7 @@ header:
 ## YOUNGJUN KIM
 # About me
 
-I'm a Ph.D. Candidate in Quant Marketing Lab at KAIST School of Business and Technology Management. My research interest is the application of Machine Learning or Deep Learning to solve business problems or find insights. 
+I hold a Ph.D. from KAIST School of Business and Technology Management. My research focuses on the application of Machine Learning or Deep Learning to solve business problems or uncover valuable insights. 
 
 
 ---
