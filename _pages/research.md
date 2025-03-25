@@ -14,16 +14,16 @@ header:
 - Impact of Promotional Messages on EV Charging: Evidence from Field Experiments
     - <sup> Youngjun Kim, Hye-Jin Kim. Work in Progress </sup>
     - <sup> Keywords: Field Experiments, Promotion, Push Notifications, Demand Response, EV charging </sup>
-- The impact of Social Network Integration on Consumer’s Online Review Behavior
+- The Impact of Social Network Integration on Consumer’s Online Review Behavior
     - <sup> Jong Min Kim, Youngjun Kim, Keeyeon Ki-cheon Park. International Journal of Hospitality Management, R&R </sup>
-    - <sup> Keywords: Social Network Integration, Online Reviews, Conformity Behavior, Linguistic Confidence, Review Helpfulness </sup>
+    - <sup> Keywords: Social Network Integration, Online Reviews, Conformity Behavior, Linguistic Confidence, Review Helpfulness  </sup>
 - From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster
     - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park. Journal of Business Research, R&R </sup>
     - <sup> Keywords: Movie poster, Generative Artificial Intelligence, Film Industry, Expectancy Violations Theory </sup>
 - Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions
     - <sup> Youngjun Kim, Youngju Kim, Hye-Jin Kim (2024). Appetite, 107555. [Link](https://doi.org/10.1016/j.appet.2024.107555) </sup>
     - <sup> Keywords: Front-of-package information on foods, Health claims, Bonus pack promotion messages </sup>
-- Analysis of product package design elements through machine learning
+- Analysis of Product Package Design Elements through Machine Learning
     - <sup> Youngjun Kim, Hye-Jin Kim (2022). Master's Thesis [Link](https://koasas.kaist.ac.kr/handle/10203/308150) </sup>
     - <sup>	Keywords: Package Design, Package Element, Image Feature Extraction, Machine Learning, Typology  </sup>
 - Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning
@@ -80,4 +80,3 @@ header:
 - *2022.09.~2022.12.* Marketing for High-Tech Companies (MSB536)
 - *2022.03.~2022.06.* Principles of Marketing (MSB236)
 - *2021.03.~2021.06.* License Agreement (ITM565)
-
