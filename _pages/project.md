@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/MOU.jpg
     alt: "placeholder image 1"
     title: "ScalarData R&D MOU with KAIST Q-Marketing Lab for EV Charging"
-    excerpt: "2023.08.~ Present <br/>Role: Data Analysis & Field Experiments <br/> - Successfully established a Memorandum of Understanding(MOU) <a href='https://www.hankyung.com/economy/article/202308259512O'>Article</a>"
+    excerpt: "2023.08.~ 2024.12 <br/>Role: Data Analysis & Field Experiments <br/> - Successfully established a Memorandum of Understanding(MOU) <a href='https://www.hankyung.com/economy/article/202308259512O'>Article</a>"
   - image_path: /assets/images/gsi.jpg
     alt: "placeholder image 2"
     title: "Global Technology Strategy Analysis Platform Research and Development "
