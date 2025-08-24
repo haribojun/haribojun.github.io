@@ -18,7 +18,7 @@ header:
     - <sup> Jong Min Kim, Youngjun Kim, Keeyeon Ki-cheon Park. International Journal of Hospitality Management, R&R </sup>
     - <sup> Keywords: Social Network Integration, Online Reviews, Conformity Behavior, Linguistic Confidence, Review Helpfulness  </sup>
 - From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster
-    - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park (2025). Journal of Business Research, 109.155498  </sup>
+    - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park (2025). Journal of Business Research, 109, 155498  </sup>
     - <sup> Keywords: Movie poster, Generative Artificial Intelligence, Film Industry, Expectancy Violations Theory </sup>
 - Impact of Product Packaging Messages on Consumer Perceptions and Choice: The Role of Health Claims and Bonus Pack Promotions
     - <sup> Youngjun Kim, Youngju Kim, Hye-Jin Kim (2024). Appetite, 107555. [Link](https://doi.org/10.1016/j.appet.2024.107555) </sup>
