@@ -15,7 +15,7 @@ header:
     - <sup> Youngjun Kim, Hye-Jin Kim. Work in Progress </sup>
     - <sup> Keywords: Field Experiments, Promotion, Push Notifications, Demand Response, EV charging </sup>
 - The Impact of Social Network Integration on Consumer’s Online Review Behavior
-    - <sup> Jong Min Kim, Youngjun Kim, Keeyeon Ki-cheon Park. International Journal of Hospitality Management, Accepted </sup>
+    - <sup> Jong Min Kim, Youngjun Kim, Keeyeon Ki-cheon Park (2026). International Journal of Hospitality Management, [Link](https://doi.org/10.1016/j.ijhm.2025.104494) </sup>
     - <sup> Keywords: Social Network Integration, Online Reviews, Conformity Behavior, Linguistic Confidence, Review Helpfulness  </sup>
 - From Visuals to Value: Leveraging Generative AI to Explore the Economic Implications of Movie Poster
     - <sup> Youngjun Kim, Hye-Jin Kim, Keeyeon Ki-cheon Park (2025). Journal of Business Research, 109, 155498 [Link](https://doi.org/10.1016/j.jbusres.2025.115498)   </sup>
